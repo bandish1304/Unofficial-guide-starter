@@ -1,0 +1,45 @@
+SOURCE: Rate My Professors
+PROFESSOR/TOPIC: Son Nguyen (Computer Science, CSUF)
+URL: https://www.ratemyprofessors.com/professor/1966157
+
+--- Review 1 ---
+Course: CPSC 471 | Date: Mar 25, 2026
+Quality: 1.0 | Difficulty: 5.0 | Grade: B- | Attendance: Mandatory
+Tags: Tough grader, Get ready to read, Group projects, Helpful
+Take this professor if you want a class that bases all of its quizzes and exams based solely off of trivia found in the slides and a group project which is worth a huge portion of your grade and yet has almost nothing to do with the subject. He also complained about how everyone got low grades on exams/homework, but did not care to adjust them.
+
+--- Review 2 ---
+Course: CPSC 546 | Date: Feb 20, 2026
+Quality: 2.0 | Difficulty: 4.0 | Grade: Rather not say | Attendance: Mandatory
+Tags: Tough grader, Get ready to read, Group projects, Helpful
+Friendly but a poor lecturer. He mainly reads off slides and has mandatory attendance. While he did acknowledge the problem, exams and quizzes are bloated with trivia questions irrelevant to the subject. Group projects were terribly managed as underperforming group members can drag your grade down with them during the report and presentation.
+
+--- Review 3 ---
+Course: CPSC 544 | Date: Dec 15, 2025
+Quality: 1.0 | Difficulty: 3.0 | Attendance: Mandatory
+Tags: Participation matters, Group projects, Helpful
+The group project didn't accomplish anything meaningful, yet the product owner marked my participation as fake. I reported the situation to the professor, but they did not address it or take any action, and my grade was still dropped from 88 to 82.
+
+--- Review 4 ---
+Course: CPSC 546 | Date: Dec 15, 2025
+Quality: 1.0 | Difficulty: 3.0 | Attendance: Mandatory
+Tags: Participation matters, Group projects, Helpful
+This course was disappointing. The group project was poorly managed—most members faked work. I was unfairly removed and marked as not participating, lowering my grade. The instructor gave little oversight, and I learned nothing but frustration. Worst course I've taken.
+
+--- Review 5 ---
+Course: CPSC 362 | Date: Dec 11, 2025
+Quality: 5.0 | Difficulty: 1.0 | Grade: A | Would Take Again: Yes | Attendance: Mandatory
+Tags: Participation matters, Respected, Lecture heavy
+I had 471 with him, but his class is pretty standard, nothing out of the ordinary. Kind professor and is very approachable.
+
+--- Review 6 ---
+Course: CPSC 546 | Date: Dec 2, 2025
+Quality: 5.0 | Difficulty: 3.0 | Grade: A | Would Take Again: Yes | Attendance: Mandatory
+Tags: Participation matters, Extra credit, Group projects, Helpful
+He has a method of teaching, grading and testing that when you figure out, you can succeed. Quizzes are about 20 questions; you should do presentation and participation.
+
+--- Review 7 ---
+Course: CPSC 362 | Date: Nov 10, 2025
+Quality: 4.0 | Difficulty: 2.0 | Grade: A | Would Take Again: Yes | Attendance: Mandatory
+Tags: Group projects, Gives good feedback
+I took CPSC 471 with him btw. The giant group project was easy. It involved a lot of meetings outside of class (we used Discord). His lectures are boring because all he does is just read off of slides. Online quizzes are easy & short. You'll learn and use software called Wireshark the entire course. Assignments are easy but time consuming.

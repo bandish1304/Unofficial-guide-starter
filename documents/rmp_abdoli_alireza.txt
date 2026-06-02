@@ -1,0 +1,44 @@
+SOURCE: Rate My Professors
+PROFESSOR/TOPIC: Alireza Abdoli (Computer Science, CSUF)
+URL: https://www.ratemyprofessors.com/professor/2803384
+
+--- Review 1 ---
+Course: CPSC 449 | Date: Jan 16, 2026
+Quality: 1.0 | Difficulty: 1.0 | Grade: A | Attendance: Not Mandatory
+Tags: Helpful
+The lectures consisted of him talking about certificates and assigning them as homework. This was a 3 hr Sat class, but he would leave less than an hour in and have his colleague "teach" the rest of the time. He does not reply to emails or messages. There were incorrect exam answers that were never fixed or regraded. The course was a waste of time.
+
+--- Review 2 ---
+Course: CPSC 449 | Date: Dec 18, 2025
+Quality: 1.0 | Difficulty: 1.0 | Grade: A+ | Attendance: Not Mandatory
+Tags: Hilarious, Helpful
+He never teaches. The entire semester he just gives you online courses, and you have to learn everything yourself. This class is basically passive income for him. He keeps you busy, doesn't reply to emails, has incorrect exam answers, no syllabus, rarely shows up, and his project has no rubric, just endless adding work until your semester ends.
+
+--- Review 3 ---
+Course: CPSC 449 | Date: Dec 13, 2025
+Quality: 1.0 | Difficulty: 3.0 | Attendance: Not Mandatory
+Tags: Helpful
+Professor rarely teaches, having to rely on a sub that comes in to teach the rest of the class while he leaves after teaching for 30 minutes. Barely any resources on Canvas to try to learn the material. Uses discord but any personal email or message sent will never get responded to. Overall sloppy and is a waste of an almost 3 hour class.
+
+--- Review 4 ---
+Course: CPSC 449 | Date: Nov 8, 2025
+Quality: 3.0 | Difficulty: 1.0 | Grade: A | Attendance: Not Mandatory
+Tags: Lots of homework, Helpful
+He never replies to your email, rarely keeps Canvas updated, but tends to use only Discord. He rarely teaches since he always assigns homework to you to take only certificates by yourself. Most of the time, his sub has to teach boringly or just follow up with your final project each week (you meet Ali less than 40 minutes out of 2.45 hours of class).
+
+--- Review 5 ---
+Course: CPSC 481 | Date: Apr 17, 2025
+Quality: 5.0 | Difficulty: 2.0 | Grade: A | Would Take Again: Yes | Attendance: Mandatory
+He gives really good advice and is straightforward; the way he helps is by allowing you to figure it out first then he will help. The attendance is mandatory for both lectures and labs. Overall he's a great professor.
+
+--- Review 6 ---
+Course: CPSC 481 | Date: Dec 11, 2024
+Quality: 5.0 | Difficulty: 2.0 | Grade: B | Would Take Again: Yes | Attendance: Not Mandatory
+Tags: Amazing lectures, Gives good feedback, Accessible outside class, Helpful
+He's fresh out of the tech industry. Gives excellent realistic/up-to-date advice. Homework came from external online courses. The certificates that you obtained from the online courses will help build your portfolio. Stress free Midterm and Final. Overall, highly recommend.
+
+--- Review 7 ---
+Course: CPSC 481 | Date: Nov 13, 2024
+Quality: 5.0 | Difficulty: 3.0 | Grade: A | Would Take Again: Yes | Attendance: Not Mandatory
+Tags: Get ready to read, Lots of homework, Lecture heavy
+Very chill professor, most assignments are usually online courses/certifications that you can eventually put on LinkedIn (Google, AWS, Oracle, etc). Lectures are 3/5, because he does tend to linger on certain topics. Easy A if you can do your assignments on time and attend his lectures.

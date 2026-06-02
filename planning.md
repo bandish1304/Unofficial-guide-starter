@@ -11,6 +11,10 @@
 
 <!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
 
+**Domain:** Computer Science professor and course reviews at Cal State Fullerton (CSUF).
+
+My system covers what CSUF CS students actually say about professors and classes: who explains things well, which exams are fair, how heavy the workload is, and which sections to take or skip. The official course catalog only gives you the course description and prerequisites, so none of that is in there. Right now this info is scattered across Rate My Professors, the r/csuf subreddit, and whatever your friends happen to know, so there's no single place to check before you register for a class.
+
 ---
 
 ## Documents
@@ -20,16 +24,16 @@
 
 | # | Source | Description | URL or location |
 |---|--------|-------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| 1 | Rate My Professors | Anand Panangadan — CPSC 481 (AI) and CPSC 375; well liked, exams are like the homework | documents/rmp_panangadan_anand.txt · https://www.ratemyprofessors.com/professor/2078580 |
+| 2 | Rate My Professors | Alireza Abdoli — mixed reviews; students dislike his CPSC 449 but like CPSC 481 | documents/rmp_abdoli_alireza.txt · https://www.ratemyprofessors.com/professor/2803384 |
+| 3 | Rate My Professors | Son Nguyen — CPSC 471/546/544/362; lots of group projects, reads off slides | documents/rmp_nguyen_son.txt · https://www.ratemyprofessors.com/professor/1966157 |
+| 4 | Rate My Professors | Kenneth Kung — CPSC 353/440/589; open-note exams, nice prof, 10 reviews from 2014–2021 | documents/rmp_kung_kenneth.txt · https://www.ratemyprofessors.com/professor/215430 |
+| 5 | Rate My Professors | Kanika Sood — CPSC 483 (ML)/315; engaging, paper exams, graded participation, research project | documents/rmp_sood_kanika.txt · https://www.ratemyprofessors.com/professor/2552839 |
+| 6 | Rate My Professors | Christopher Ryu — CPSC 254/483/485/491/585; easy in CPSC 254, hard in his ML/AI classes | documents/rmp_ryu_christopher.txt · https://www.ratemyprofessors.com/professor/2382378 |
+| 7 | Reddit (r/csuf) | Trying to contact Prof Ning Chen (CPSC 477); short, just a question with no answers | documents/reddit_ning_chen_contact.txt · https://www.reddit.com/r/csuf/comments/1dupxrm/cs_prof_ning_chen/ |
+| 8 | Reddit (r/csuf) | Dr. Mira Kim — CPSC 481 (AI)/362; grading, exam format, plus a CPSC 455 (Avery) comparison | documents/reddit_mira_kim.txt · https://www.reddit.com/r/csuf/search/?q=Mira+Kim |
+| 9 | Reddit (r/csuf) | CPSC 375 with Panangadan; uses R and Apache Spark, two projects, elective credit advice | documents/reddit_cpsc375_panangadan.txt · https://www.reddit.com/r/csuf/comments/br50p6/ |
+| 10 | Reddit Answers (AI summary) | "CPSC professors to avoid at CSUF" list (McCarthy, Holliday, May, Tian, Peiravi); mixed sources, see the note in the file | documents/reddit_profs_to_avoid.txt · https://www.reddit.com/answers/597a2e2c-c48b-4cb5-a994-69fd265f68bf/ |
 
 ---
 
@@ -73,11 +77,11 @@
 
 | # | Question | Expected answer |
 |---|----------|-----------------|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
+| 1 | What do students say about exam format and difficulty in Professor Panangadan's CPSC 481? | Students say the exams are basically like the homework, so the class feels manageable. He's known for clear lectures and for extending deadlines if you ask. |
+| 2 | What is the difference in student opinion of Alireza Abdoli between CPSC 449 and CPSC 481? | CPSC 449 reviews are very negative (rarely teaches, relies on a sub, doesn't answer emails); CPSC 481 reviews are positive (chill, good up-to-date industry advice, low-stress exams). |
+| 3 | How are exams structured in Kenneth Kung's classes? | Exams are open-note / open-book and make you think; in CPSC 353 he uses a two-stage take-home test format. Students still warn you must understand the concepts to score well. |
+| 4 | What should students expect from the group project and participation grading in Kanika Sood's CPSC 483? | A significant group project (can be taken toward a publishable research paper) plus graded/forced participation; paper exams that are manageable if you study. Reviews are mixed on email responsiveness. |
+| 5 | Which CPSC professors do students recommend avoiding, and why? | Students name McCarthy (talks about interviews instead of teaching), Holliday (CPSC 240 assembly — "just said Google it"), Stephen/Eric May, and Yun Tian (hard to follow). NOTE: this source mixes r/csuf with r/UCalgary, so attribution should be treated cautiously. |
 
 ---
 

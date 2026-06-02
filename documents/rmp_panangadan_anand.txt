@@ -1,0 +1,44 @@
+SOURCE: Rate My Professors
+PROFESSOR/TOPIC: Anand Panangadan (Computer Science, CSUF)
+URL: https://www.ratemyprofessors.com/professor/2078580
+
+--- Review 1 ---
+Course: CPSC 481 | Date: May 23, 2026
+Quality: 5.0 | Difficulty: 3.0 | Grade: A | Would Take Again: Yes | Attendance: Mandatory
+Tags: Amazing lectures, Caring, Lecture heavy
+He really teaches great. On top of that he also extends HW/projects deadline on request. Very good guy and amazing lectures.
+
+--- Review 2 ---
+Course: CPSC 481 | Date: Dec 23, 2025
+Quality: 5.0 | Difficulty: 3.0 | Grade: A+ | Would Take Again: Yes | Attendance: Not Mandatory
+Tags: Group projects, Gives good feedback, Respected, Helpful
+He was great! Trust me, you want to take his class. His lectures were kind of normal (not extraordinary), but if you had questions he will explain in depth so that you understand it. He is also very kind.
+
+--- Review 3 ---
+Course: CPSC 481 | Date: Jul 7, 2025
+Quality: 5.0 | Difficulty: 2.0 | Grade: A | Would Take Again: Yes | Attendance: Not Mandatory
+Tags: Amazing lectures, Caring, Respected
+Dr. P is easily one of the best CS instructors at CSUF. Will explain any level of detail to you, cares if you are understanding, and is very relatable in his teaching style. Exams are JUST like the homework. This class was very manageable as a summer class and I did not feel overwhelmed with work like I have in other summer classes.
+
+--- Review 4 ---
+Course: CPSC 375 | Date: May 27, 2024
+Quality: 4.0 | Difficulty: 4.0 | Grade: C | Would Take Again: Yes | Attendance: Mandatory
+Tags: Helpful
+This professor was a great person, no doubt about that. Very helpful. The only problem was he had a TA grading the assignments and she was a VERY strict grader. The exams were open note so at least that saved me from failing this course.
+
+--- Review 5 ---
+Course: CPSC 481 | Date: May 6, 2024
+Quality: 5.0 | Difficulty: 2.0 | Grade: A- | Would Take Again: Yes | Attendance: Not Mandatory
+Tags: Group projects, Gives good feedback, Caring
+His AI class was easy and lots of fun. He knows his subject well, and his class was divided evenly between lecture and practice. Lenient on due dates. He gives good feedback while being a very respectful and caring professor.
+
+--- Review 6 ---
+Course: CPSC 481 | Date: Nov 16, 2023
+Quality: 5.0 | Difficulty: 3.0 | Grade: A | Would Take Again: Yes
+Amazing professor! He really puts in extra effort to help students understand the material and on occasion even mentioned that our learning is more important than the assignment deadline. He's always open to answering questions and is very knowledgeable. If you are able to take his class, I highly recommend it.
+
+--- Review 7 ---
+Course: CPSC 481 | Date: Jan 21, 2022
+Quality: 5.0 | Difficulty: 3.0 | Grade: B | Would Take Again: Yes | Attendance: Mandatory | Online Class: Yes
+Tags: Caring, Respected
+Makes the course easy. Gives homework assignments and two group projects. Final is similar to homework assignments, but harder. Don't assume that just doing the homework assignments is enough to get you an A, study extra. Lectures are very clear and classwork helps solidify concepts. Great professor.

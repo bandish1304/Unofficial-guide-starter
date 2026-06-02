@@ -1,0 +1,63 @@
+SOURCE: Rate My Professors
+PROFESSOR/TOPIC: Kanika Sood (Computer Science, CSUF)
+URL: https://www.ratemyprofessors.com/professor/2552839
+
+--- Review 1 ---
+Course: CPSC 483 (noted as 490) | Date: Mar 11, 2026
+Quality: 3.0 | Difficulty: 3.0 | Attendance: Not Mandatory
+Tags: Helpful
+Very messy start to semester. She wasn't there for 2 weeks, but the uni handled it terribly. It seemed like she thought we had access to Canvas at that time. She also didn't seem to know that this class doesn't require implementation. Later on she casually mentioned it on an announcement for something else. This is all the uni's fault!
+
+--- Review 2 ---
+Course: CPSC 483 | Date: Dec 9, 2025
+Quality: 5.0 | Difficulty: 3.0 | Would Take Again: Yes
+Tags: Helpful
+One of the few teachers in the department who I'd consider to be an actual professor. The rest are like employees. Her class made me decide that I'd like to become an ML engineer! Exams are on pen and paper, but they were surprisingly not difficult if you paid attention and did all the work.
+
+--- Review 3 ---
+Course: CPSC 483 | Date: Dec 6, 2025
+Quality: 5.0 | Difficulty: 2.0 | Grade: B- | Would Take Again: Yes | Attendance: Mandatory
+Tags: Participation matters, Group projects, Gives good feedback, Helpful
+Very great professor. So understanding and caring. Teaches ML concepts so well and gives every student an opportunity to take their project to the next level and have it be recognized. I left the class with a great understanding of ML and lectures were always great and engaging. Only con is she keeps track of your participation so if ur shy.....
+
+--- Review 4 ---
+Course: CPSC 483 | Date: Dec 4, 2025
+Quality: 5.0 | Difficulty: 2.0 | Would Take Again: Yes | Attendance: Mandatory
+Tags: Helpful
+Wow an actual prof with a personality and engaging lectures and not a human creaking door that just stands behind the podium? A prof that gives you the chance to create impactful work and write a research paper that she can help you publish and you can even go out of state to present it?? A prof that relays weekly ML news??
+
+--- Review 5 ---
+Course: CPSC 483 | Date: Dec 4, 2025
+Quality: 5.0 | Difficulty: 2.0 | Would Take Again: Yes | Attendance: Not Mandatory
+Tags: Helpful
+Exams are on paper, but are actually easy if you study. On Discord some students complaining about her, but in reality it's cuz they don't pay attention in class and wait til last min to do their work and gets mad cuz she's not replying back in .3 seconds. She literally makes you take surveys to improve the class. Even willing to push back due dates.
+
+--- Review 6 ---
+Course: CPSC 483 | Date: Dec 2, 2025
+Quality: 1.0 | Difficulty: 4.0 | Grade: B | Attendance: Not Mandatory
+Tags: Tough grader, Participation matters, Group projects, Helpful
+She takes a long time to respond to emails. Exams are in person on paper, the exams are long and difficult. Her lecture slides are very hard to study so you are better off learning everything yourself. Her Canvas is not easy to navigate and confusing. Participation is required. Lectures were boring and the project is a lot.
+
+--- Review 7 ---
+Course: CPSC 483 | Date: May 30, 2025
+Quality: 4.0 | Difficulty: 3.0 | Grade: B | Would Take Again: Yes | Attendance: Mandatory
+Tags: Participation matters, Group projects, Amazing lectures, Helpful
+Pretty straightforward course. You get a cheat sheet on the two exams, quizzes aren't bad at all, as aren't homeworks. You just need a good partner or two for the project and this course should not be that bad. Great professor.
+
+--- Review 8 ---
+Course: CPSC 483 | Date: Nov 9, 2024
+Quality: 3.0 | Difficulty: 3.0 | Attendance: Not Mandatory
+Tags: Participation matters, Group projects, Caring, Helpful
+She's knowledgeable and clear in lectures, which makes the material easy to understand. However, she requires forced participation, and it's graded (e.g. raising your hand and asking/answering questions), which can feel unnecessary. Exams are open notes, which is really good for machine learning.
+
+--- Review 9 ---
+Course: CPSC 483 | Date: Dec 3, 2023
+Quality: 5.0 | Difficulty: 3.0 | Grade: B | Would Take Again: Yes | Attendance: Not Mandatory
+Tags: Amazing lectures, Gives good feedback, Inspirational, Helpful
+She is one of those professors who knows what she is talking about so she sort of makes machine learning somehow cooler than it is. The professor is very knowledgeable and enthusiastic, and answers all questions with respect. She also made sure that we covered many relevant and important topics.
+
+--- Review 10 ---
+Course: CPSC 315 | Date: Apr 10, 2023
+Quality: 5.0 | Difficulty: 4.0 | Grade: B | Would Take Again: Yes | Attendance: Not Mandatory
+Tags: Get ready to read, Participation matters, Gives good feedback, Helpful
+This was the most fun class I have had in a while. Very lively class, with a lot of discussion, interesting topics and recent events that relate to the textbook content. Get ready to read and participate each week. I have taken 2 classes with her, CPSC 483: Machine Learning, and her enthusiasm is transferable to everyone in the class.

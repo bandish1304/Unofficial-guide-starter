@@ -14,6 +14,8 @@
      Example: "Student reviews of CS professors at [university] — useful because official
      course descriptions don't reflect teaching style, exam difficulty, or workload." -->
 
+This system covers Computer Science professor and course reviews at Cal State Fullerton (CSUF)— what CSUF CS students actually say about professors and classes: who explains things well, which exams are fair, how heavy the workload is, and which sections to take or skip. The official course catalog only gives you the course description and prerequisites, so none of that is in there. Right now this info is scattered across Rate My Professors, the r/csuf subreddit, and whatever your friends happen to know, so there's no single place to check before you register.
+
 ---
 
 ## Document Sources

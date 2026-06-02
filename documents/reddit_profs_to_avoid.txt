@@ -1,0 +1,37 @@
+SOURCE: Reddit Answers (AI-generated synthesis) — sources cited: r/csuf, r/UCalgary
+PROFESSOR/TOPIC: "Which CPSC professors to avoid at CSUF" (multi-professor roundup)
+URL: https://www.reddit.com/answers/597a2e2c-c48b-4cb5-a994-69fd265f68bf/?q=CPSC+professors+avoid+csuf
+
+PROVENANCE NOTE (important): This is a Reddit Answers AI-generated summary, NOT raw
+student posts. It cites r/UCalgary (University of Calgary) as a source in addition to
+r/csuf, and Calgary also uses "CPSC" course codes — so some claims may not be about CSUF.
+Treat the named quotes as student voice but verify professor/school before relying on them.
+
+--- Which CPSC Professors To Avoid At CSUF ---
+
+Commonly Called-Out Instructors:
+
+- Avoid McCarthy: Students say "Under all circumstances, avoid McCarthy." "He spends more
+  time talking about potential interviews than actually teaching code." "Taking his class,
+  you could tell he knows his stuff, but he should not be teaching at all."
+
+- Avoid Holliday for Assembly / CPSC 240: "CPSC 240 (assembly) with Holliday. He couldn't
+  actually do any of the assembly so when we asked for help he just said Google it."
+
+- Avoid Stephen May / Eric May (reports vary): "Avoid Stephen May he's horrible" and
+  "Eric May classes become ghost towns towards the end of the semester."
+
+- Avoid Yun Tian (teaching clarity issues): "Yun Tian tries her best to teach but you
+  won't understand a single thing she says. Her accent is very thick and trying to listen
+  to her can be difficult."
+
+Professors Students Describe As "Poor Teachers" Or Unreliable:
+
+- Instructors who don't teach / require self-study: "Prepare to teach yourself. He doesn't
+  teach" — cited specifically about Mehdi Peiravi by a dissenting commenter.
+
+- Instructors with low engagement or organization: professors who "read off board, not much
+  explanation during lectures, VERY rough midterm averages" for some courses.
+
+- Tenured but unhelpful instructors: "Holliday... was ancient and had tenure so nobody
+  could do anything."

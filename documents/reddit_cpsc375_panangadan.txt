@@ -1,0 +1,41 @@
+SOURCE: Reddit (r/csuf)
+PROFESSOR/TOPIC: Thread — "Has anyone taken CPSC 375 with Anand Panangadan or has experience with CPSC 476?" (CPSC 375, Dr. P / data science elective)
+URL: https://www.reddit.com/r/csuf/comments/br50p6/has_anyone_taken_cpsc_375_with_anand_panangadan/
+
+--- Original Post (WolffNess, Flair: Prof/Class Inquiry) ---
+Trying to choose one last CS elective for fall so I wanted to know if anyone has any insight on how difficult/time consuming/useful these classes are. Thanks!
+
+--- Comments ---
+
+[deleted] (7y ago):
+I took CPSC 375 with Dr. P. Basically the whole class is based on R. Overall it was an easy class but the two projects that are given are pretty tough. The first one was using R and the second one uses Apache Spark which requires the first project.
+
+WolffNess (OP):
+Thank you for this! Overall would you recommend it to someone who's not super interested in data science? And is there any content on machine learning? I saw the catalog description mentioned it could cover it.
+
+[deleted] (7y ago):
+Machine learning is half the class material such as supervised/unsupervised learning, train data and test data, kmeans algorithm and time series. Edit: If you are into or want to know data science I would take it.
+
+7g23 (7y ago):
+Did you just take it this semester? I thought the second project was easy. Sure installing Spark is hit or miss but the actual project was just getting his sample code to run.
+
+[deleted] (7y ago):
+I did take it this semester, I had problems installing it :( since it requires Java 8 and I had Java 11. I should have mentioned that installing it is the hard part of the second project.
+
+7g23 (7y ago):
+I just took it. Fun class if you love analysing statistics. And if you don't it's still an easy class. Attendance isn't mandatory, there are no quizzes, there's a homework assignment every 2 or 3 weeks, and exams are open book and open PowerPoints. He basically just went over R and a bunch of really useful things to do in R like: cleaning and transforming data, predicting data with a few machine learning algorithms, time series analysis, and text analysis. Not hard, not really time consuming either, pretty cool, and really useful if you are often forced to interpret and predict data in your daily life.
+
+[deleted] (7y ago):
+Agreed. I took it because one, I wanted to know what data science is, and two, I thought Python would be used but that's in CPSC 483.
+
+WolffNess (OP):
+Thanks so much! One last question, if I disliked Math 338 do you think I'll still enjoy this class?
+
+7g23 (7y ago):
+Probably. We didn't really go deep into statistics or how to waste time calculating things by hand. But getting used to R again after 338 was annoying for the first few hours.
+
+Kentaii (7y ago):
+Do 375 and 349 count towards elective credits? They aren't showing up as so on my TDA.
+
+QuelGecko (7y ago):
+Update: just go to the CS department, they will have you sign a form to get the credits approved.

@@ -1,0 +1,63 @@
+SOURCE: Rate My Professors
+PROFESSOR/TOPIC: Christopher Ryu (Computer Science, CSUF)
+URL: https://www.ratemyprofessors.com/professor/2382378
+
+--- Review 1 ---
+Course: CPSC 585 | Date: May 25, 2026
+Quality: 3.0 | Difficulty: 4.0 | Grade: A | Would Take Again: Yes | Attendance: Mandatory
+Tags: Helpful
+This course is quite difficult, and there is no cheat sheet. You really need to understand and memorize the slides. He also asks conceptual questions on the exams. The homework assignments are large, and doing them alone (especially if you don't have materials from last semester) can be very challenging. No TA, and the Discord does not answer HW questions.
+
+--- Review 2 ---
+Course: CPSC 485 (actually CPSC 254) | Date: Apr 21, 2026
+Quality: 5.0 | Difficulty: 1.0 | Grade: A+ | Would Take Again: Yes | Attendance: Mandatory
+Tags: Tough grader, Amazing lectures, Beware of pop quizzes, Helpful
+FOR CPSC 254. Very easy class. I don't know why people say he is bad. Well, the exam averages were mostly 60%, but he gives extra credit very often, and this will make your D to B+ in no time. The assignments were also really easy and graded fairly. Just come to class and listen to his lecture and you will be fine.
+
+--- Review 3 ---
+Course: CPSC 485 (actually CPSC 254) | Date: Apr 28, 2025
+Quality: 2.0 | Difficulty: 1.0 | Attendance: Not Mandatory
+Tags: Helpful
+Class taken was actually CPSC 254. Class is super easy, lectures are super boring. Homework is lots of tedious work. He gives lots of extra credit out if you go to each class. Encouraged to use AI to help with homework.
+
+--- Review 4 ---
+Course: CPSC 485 (actually CPSC 483) | Date: Nov 23, 2024
+Quality: 2.0 | Difficulty: 5.0 | Grade: C | Attendance: Not Mandatory
+Tags: Tough grader, Get ready to read, Helpful
+This is for CPSC 483. Assumes his students are geniuses. Assignment instructions are short and vague. He gives you a 300+ line code on ANN Architecture and Multilayer Perceptron and expects you to modify it to a working Classifier. Quizzes are based on his PowerPoints and lecture. Class averaged a C on quizzes.
+
+--- Review 5 ---
+Course: CPSC 585 | Date: Apr 19, 2024
+Quality: 1.0 | Difficulty: 5.0 | Attendance: Not Mandatory
+Tags: Tough grader, Beware of pop quizzes, Lecture heavy, Helpful
+Lectures are way too difficult to follow. He just uses a PowerPoint that is 3 hours long the whole time. The homework is harder than what is taught in class and he just expects you to know how to do it. He uses a grader who was awful - took forever to grade and barely gave helpful feedback.
+
+--- Review 6 ---
+Course: CPSC 585 | Date: Mar 20, 2024
+Quality: 1.0 | Difficulty: 5.0 | Attendance: Not Mandatory
+Tags: Tough grader, Lots of homework, Helpful
+Can't teach! Homework and assignments are way more difficult than whatever he teaches. He assumes that you know everything. For example, he delivered a lecture on Artificial Neural Networks (ANN) and its basics, then gave the assignment to train and evaluate the ANN. In short, he doesn't know how to teach.
+
+--- Review 7 ---
+Course: CPSC 485 | Date: May 30, 2023
+Quality: 5.0 | Difficulty: 3.0 | Grade: A | Would Take Again: Yes | Attendance: Mandatory
+Tags: Helpful
+Overall great teacher!
+
+--- Review 8 ---
+Course: CPSC 485 | Date: Mar 17, 2023
+Quality: 1.0 | Difficulty: 5.0 | Grade: C | Attendance: Not Mandatory
+Tags: Tough grader, Lecture heavy, Test heavy, Helpful
+He teaches a lot of things from the PPT but there will be quizzes every week so grades are according to them. Be prepared for reading every day! Projects are not that easy but somehow we will manage to do.
+
+--- Review 9 ---
+Course: CPSC 491 | Date: Dec 3, 2022
+Quality: 1.0 | Difficulty: 5.0 | Attendance: Not Mandatory
+Tags: Beware of pop quizzes, Lecture heavy, Test heavy, Helpful
+Avoid him for machine learning, his lectures are unrealistic. For example, imagine 100 PowerPoint slides with endless mathematical formulas (gibberish). He also has a language barrier and struggles at explaining concepts. Everyone was failing from the start basically from quizzes. We all expect a massive curve. 4 major projects with little to no help.
+
+--- Review 10 ---
+Course: CPSC 491 | Date: Oct 10, 2022
+Quality: 1.0 | Difficulty: 5.0 | Grade: B | Attendance: Not Mandatory
+Tags: Tough grader, Lots of homework, Test heavy, Helpful
+Start learning from the beginning; quizzes are hard as compared to what he teaches.
