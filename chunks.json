@@ -8,7 +8,9 @@
       "course": "Unknown",
       "url": "https://www.reddit.com/r/csuf/comments/br50p6/has_anyone_taken_cpsc_375_with_anand_panangadan/",
       "doc_type": "reddit",
-      "source_file": "reddit_cpsc375_panangadan.txt"
+      "source_file": "reddit_cpsc375_panangadan.txt",
+      "chunk_index": 1,
+      "chunk_count": 1
     }
   },
   {
@@ -20,7 +22,9 @@
       "course": "Unknown",
       "url": "https://www.reddit.com/r/csuf/search/?q=Mira+Kim",
       "doc_type": "reddit",
-      "source_file": "reddit_mira_kim.txt"
+      "source_file": "reddit_mira_kim.txt",
+      "chunk_index": 1,
+      "chunk_count": 1
     }
   },
   {
@@ -32,7 +36,9 @@
       "course": "Unknown",
       "url": "https://www.reddit.com/r/csuf/comments/1dupxrm/cs_prof_ning_chen/",
       "doc_type": "reddit",
-      "source_file": "reddit_ning_chen_contact.txt"
+      "source_file": "reddit_ning_chen_contact.txt",
+      "chunk_index": 1,
+      "chunk_count": 1
     }
   },
   {
@@ -44,7 +50,9 @@
       "course": "Unknown",
       "url": "https://www.reddit.com/answers/597a2e2c-c48b-4cb5-a994-69fd265f68bf/?q=CPSC+professors+avoid+csuf",
       "doc_type": "reddit",
-      "source_file": "reddit_profs_to_avoid.txt"
+      "source_file": "reddit_profs_to_avoid.txt",
+      "chunk_index": 1,
+      "chunk_count": 1
     }
   },
   {
@@ -56,7 +64,9 @@
       "course": "CPSC 449",
       "url": "https://www.ratemyprofessors.com/professor/2803384",
       "doc_type": "rmp",
-      "source_file": "rmp_abdoli_alireza.txt"
+      "source_file": "rmp_abdoli_alireza.txt",
+      "chunk_index": 1,
+      "chunk_count": 7
     }
   },
   {
@@ -68,7 +78,9 @@
       "course": "CPSC 449",
       "url": "https://www.ratemyprofessors.com/professor/2803384",
       "doc_type": "rmp",
-      "source_file": "rmp_abdoli_alireza.txt"
+      "source_file": "rmp_abdoli_alireza.txt",
+      "chunk_index": 2,
+      "chunk_count": 7
     }
   },
   {
@@ -80,7 +92,9 @@
       "course": "CPSC 449",
       "url": "https://www.ratemyprofessors.com/professor/2803384",
       "doc_type": "rmp",
-      "source_file": "rmp_abdoli_alireza.txt"
+      "source_file": "rmp_abdoli_alireza.txt",
+      "chunk_index": 3,
+      "chunk_count": 7
     }
   },
   {
@@ -92,7 +106,9 @@
       "course": "CPSC 449",
       "url": "https://www.ratemyprofessors.com/professor/2803384",
       "doc_type": "rmp",
-      "source_file": "rmp_abdoli_alireza.txt"
+      "source_file": "rmp_abdoli_alireza.txt",
+      "chunk_index": 4,
+      "chunk_count": 7
     }
   },
   {
@@ -104,7 +120,9 @@
       "course": "CPSC 481",
       "url": "https://www.ratemyprofessors.com/professor/2803384",
       "doc_type": "rmp",
-      "source_file": "rmp_abdoli_alireza.txt"
+      "source_file": "rmp_abdoli_alireza.txt",
+      "chunk_index": 5,
+      "chunk_count": 7
     }
   },
   {
@@ -116,7 +134,9 @@
       "course": "CPSC 481",
       "url": "https://www.ratemyprofessors.com/professor/2803384",
       "doc_type": "rmp",
-      "source_file": "rmp_abdoli_alireza.txt"
+      "source_file": "rmp_abdoli_alireza.txt",
+      "chunk_index": 6,
+      "chunk_count": 7
     }
   },
   {
@@ -128,7 +148,9 @@
       "course": "CPSC 481",
       "url": "https://www.ratemyprofessors.com/professor/2803384",
       "doc_type": "rmp",
-      "source_file": "rmp_abdoli_alireza.txt"
+      "source_file": "rmp_abdoli_alireza.txt",
+      "chunk_index": 7,
+      "chunk_count": 7
     }
   },
   {
@@ -140,7 +162,9 @@
       "course": "CPSC 353",
       "url": "https://www.ratemyprofessors.com/professor/215430",
       "doc_type": "rmp",
-      "source_file": "rmp_kung_kenneth.txt"
+      "source_file": "rmp_kung_kenneth.txt",
+      "chunk_index": 1,
+      "chunk_count": 10
     }
   },
   {
@@ -152,7 +176,9 @@
       "course": "CPSC 353",
       "url": "https://www.ratemyprofessors.com/professor/215430",
       "doc_type": "rmp",
-      "source_file": "rmp_kung_kenneth.txt"
+      "source_file": "rmp_kung_kenneth.txt",
+      "chunk_index": 2,
+      "chunk_count": 10
     }
   },
   {
@@ -164,7 +190,9 @@
       "course": "CPSC 353",
       "url": "https://www.ratemyprofessors.com/professor/215430",
       "doc_type": "rmp",
-      "source_file": "rmp_kung_kenneth.txt"
+      "source_file": "rmp_kung_kenneth.txt",
+      "chunk_index": 3,
+      "chunk_count": 10
     }
   },
   {
@@ -176,7 +204,9 @@
       "course": "CPSC 440",
       "url": "https://www.ratemyprofessors.com/professor/215430",
       "doc_type": "rmp",
-      "source_file": "rmp_kung_kenneth.txt"
+      "source_file": "rmp_kung_kenneth.txt",
+      "chunk_index": 4,
+      "chunk_count": 10
     }
   },
   {
@@ -188,7 +218,9 @@
       "course": "CPSC 589",
       "url": "https://www.ratemyprofessors.com/professor/215430",
       "doc_type": "rmp",
-      "source_file": "rmp_kung_kenneth.txt"
+      "source_file": "rmp_kung_kenneth.txt",
+      "chunk_index": 5,
+      "chunk_count": 10
     }
   },
   {
@@ -200,7 +232,9 @@
       "course": "CPSC 589",
       "url": "https://www.ratemyprofessors.com/professor/215430",
       "doc_type": "rmp",
-      "source_file": "rmp_kung_kenneth.txt"
+      "source_file": "rmp_kung_kenneth.txt",
+      "chunk_index": 6,
+      "chunk_count": 10
     }
   },
   {
@@ -212,7 +246,9 @@
       "course": "CPSC 589",
       "url": "https://www.ratemyprofessors.com/professor/215430",
       "doc_type": "rmp",
-      "source_file": "rmp_kung_kenneth.txt"
+      "source_file": "rmp_kung_kenneth.txt",
+      "chunk_index": 7,
+      "chunk_count": 10
     }
   },
   {
@@ -224,7 +260,9 @@
       "course": "CPSC 440",
       "url": "https://www.ratemyprofessors.com/professor/215430",
       "doc_type": "rmp",
-      "source_file": "rmp_kung_kenneth.txt"
+      "source_file": "rmp_kung_kenneth.txt",
+      "chunk_index": 8,
+      "chunk_count": 10
     }
   },
   {
@@ -236,7 +274,9 @@
       "course": "CPSC 440",
       "url": "https://www.ratemyprofessors.com/professor/215430",
       "doc_type": "rmp",
-      "source_file": "rmp_kung_kenneth.txt"
+      "source_file": "rmp_kung_kenneth.txt",
+      "chunk_index": 9,
+      "chunk_count": 10
     }
   },
   {
@@ -248,7 +288,9 @@
       "course": "CPSC 589",
       "url": "https://www.ratemyprofessors.com/professor/215430",
       "doc_type": "rmp",
-      "source_file": "rmp_kung_kenneth.txt"
+      "source_file": "rmp_kung_kenneth.txt",
+      "chunk_index": 10,
+      "chunk_count": 10
     }
   },
   {
@@ -260,7 +302,9 @@
       "course": "CPSC 471",
       "url": "https://www.ratemyprofessors.com/professor/1966157",
       "doc_type": "rmp",
-      "source_file": "rmp_nguyen_son.txt"
+      "source_file": "rmp_nguyen_son.txt",
+      "chunk_index": 1,
+      "chunk_count": 7
     }
   },
   {
@@ -272,7 +316,9 @@
       "course": "CPSC 546",
       "url": "https://www.ratemyprofessors.com/professor/1966157",
       "doc_type": "rmp",
-      "source_file": "rmp_nguyen_son.txt"
+      "source_file": "rmp_nguyen_son.txt",
+      "chunk_index": 2,
+      "chunk_count": 7
     }
   },
   {
@@ -284,7 +330,9 @@
       "course": "CPSC 544",
       "url": "https://www.ratemyprofessors.com/professor/1966157",
       "doc_type": "rmp",
-      "source_file": "rmp_nguyen_son.txt"
+      "source_file": "rmp_nguyen_son.txt",
+      "chunk_index": 3,
+      "chunk_count": 7
     }
   },
   {
@@ -296,7 +344,9 @@
       "course": "CPSC 546",
       "url": "https://www.ratemyprofessors.com/professor/1966157",
       "doc_type": "rmp",
-      "source_file": "rmp_nguyen_son.txt"
+      "source_file": "rmp_nguyen_son.txt",
+      "chunk_index": 4,
+      "chunk_count": 7
     }
   },
   {
@@ -308,7 +358,9 @@
       "course": "CPSC 362",
       "url": "https://www.ratemyprofessors.com/professor/1966157",
       "doc_type": "rmp",
-      "source_file": "rmp_nguyen_son.txt"
+      "source_file": "rmp_nguyen_son.txt",
+      "chunk_index": 5,
+      "chunk_count": 7
     }
   },
   {
@@ -320,7 +372,9 @@
       "course": "CPSC 546",
       "url": "https://www.ratemyprofessors.com/professor/1966157",
       "doc_type": "rmp",
-      "source_file": "rmp_nguyen_son.txt"
+      "source_file": "rmp_nguyen_son.txt",
+      "chunk_index": 6,
+      "chunk_count": 7
     }
   },
   {
@@ -332,7 +386,9 @@
       "course": "CPSC 362",
       "url": "https://www.ratemyprofessors.com/professor/1966157",
       "doc_type": "rmp",
-      "source_file": "rmp_nguyen_son.txt"
+      "source_file": "rmp_nguyen_son.txt",
+      "chunk_index": 7,
+      "chunk_count": 7
     }
   },
   {
@@ -344,7 +400,9 @@
       "course": "CPSC 481",
       "url": "https://www.ratemyprofessors.com/professor/2078580",
       "doc_type": "rmp",
-      "source_file": "rmp_panangadan_anand.txt"
+      "source_file": "rmp_panangadan_anand.txt",
+      "chunk_index": 1,
+      "chunk_count": 7
     }
   },
   {
@@ -356,7 +414,9 @@
       "course": "CPSC 481",
       "url": "https://www.ratemyprofessors.com/professor/2078580",
       "doc_type": "rmp",
-      "source_file": "rmp_panangadan_anand.txt"
+      "source_file": "rmp_panangadan_anand.txt",
+      "chunk_index": 2,
+      "chunk_count": 7
     }
   },
   {
@@ -368,7 +428,9 @@
       "course": "CPSC 481",
       "url": "https://www.ratemyprofessors.com/professor/2078580",
       "doc_type": "rmp",
-      "source_file": "rmp_panangadan_anand.txt"
+      "source_file": "rmp_panangadan_anand.txt",
+      "chunk_index": 3,
+      "chunk_count": 7
     }
   },
   {
@@ -380,7 +442,9 @@
       "course": "CPSC 375",
       "url": "https://www.ratemyprofessors.com/professor/2078580",
       "doc_type": "rmp",
-      "source_file": "rmp_panangadan_anand.txt"
+      "source_file": "rmp_panangadan_anand.txt",
+      "chunk_index": 4,
+      "chunk_count": 7
     }
   },
   {
@@ -392,7 +456,9 @@
       "course": "CPSC 481",
       "url": "https://www.ratemyprofessors.com/professor/2078580",
       "doc_type": "rmp",
-      "source_file": "rmp_panangadan_anand.txt"
+      "source_file": "rmp_panangadan_anand.txt",
+      "chunk_index": 5,
+      "chunk_count": 7
     }
   },
   {
@@ -404,7 +470,9 @@
       "course": "CPSC 481",
       "url": "https://www.ratemyprofessors.com/professor/2078580",
       "doc_type": "rmp",
-      "source_file": "rmp_panangadan_anand.txt"
+      "source_file": "rmp_panangadan_anand.txt",
+      "chunk_index": 6,
+      "chunk_count": 7
     }
   },
   {
@@ -416,7 +484,9 @@
       "course": "CPSC 481",
       "url": "https://www.ratemyprofessors.com/professor/2078580",
       "doc_type": "rmp",
-      "source_file": "rmp_panangadan_anand.txt"
+      "source_file": "rmp_panangadan_anand.txt",
+      "chunk_index": 7,
+      "chunk_count": 7
     }
   },
   {
@@ -428,7 +498,9 @@
       "course": "CPSC 585",
       "url": "https://www.ratemyprofessors.com/professor/2382378",
       "doc_type": "rmp",
-      "source_file": "rmp_ryu_christopher.txt"
+      "source_file": "rmp_ryu_christopher.txt",
+      "chunk_index": 1,
+      "chunk_count": 10
     }
   },
   {
@@ -440,7 +512,9 @@
       "course": "CPSC 485",
       "url": "https://www.ratemyprofessors.com/professor/2382378",
       "doc_type": "rmp",
-      "source_file": "rmp_ryu_christopher.txt"
+      "source_file": "rmp_ryu_christopher.txt",
+      "chunk_index": 2,
+      "chunk_count": 10
     }
   },
   {
@@ -452,7 +526,9 @@
       "course": "CPSC 485",
       "url": "https://www.ratemyprofessors.com/professor/2382378",
       "doc_type": "rmp",
-      "source_file": "rmp_ryu_christopher.txt"
+      "source_file": "rmp_ryu_christopher.txt",
+      "chunk_index": 3,
+      "chunk_count": 10
     }
   },
   {
@@ -464,7 +540,9 @@
       "course": "CPSC 485",
       "url": "https://www.ratemyprofessors.com/professor/2382378",
       "doc_type": "rmp",
-      "source_file": "rmp_ryu_christopher.txt"
+      "source_file": "rmp_ryu_christopher.txt",
+      "chunk_index": 4,
+      "chunk_count": 10
     }
   },
   {
@@ -476,7 +554,9 @@
       "course": "CPSC 585",
       "url": "https://www.ratemyprofessors.com/professor/2382378",
       "doc_type": "rmp",
-      "source_file": "rmp_ryu_christopher.txt"
+      "source_file": "rmp_ryu_christopher.txt",
+      "chunk_index": 5,
+      "chunk_count": 10
     }
   },
   {
@@ -488,7 +568,9 @@
       "course": "CPSC 585",
       "url": "https://www.ratemyprofessors.com/professor/2382378",
       "doc_type": "rmp",
-      "source_file": "rmp_ryu_christopher.txt"
+      "source_file": "rmp_ryu_christopher.txt",
+      "chunk_index": 6,
+      "chunk_count": 10
     }
   },
   {
@@ -500,7 +582,9 @@
       "course": "CPSC 485",
       "url": "https://www.ratemyprofessors.com/professor/2382378",
       "doc_type": "rmp",
-      "source_file": "rmp_ryu_christopher.txt"
+      "source_file": "rmp_ryu_christopher.txt",
+      "chunk_index": 7,
+      "chunk_count": 10
     }
   },
   {
@@ -512,7 +596,9 @@
       "course": "CPSC 485",
       "url": "https://www.ratemyprofessors.com/professor/2382378",
       "doc_type": "rmp",
-      "source_file": "rmp_ryu_christopher.txt"
+      "source_file": "rmp_ryu_christopher.txt",
+      "chunk_index": 8,
+      "chunk_count": 10
     }
   },
   {
@@ -524,7 +610,9 @@
       "course": "CPSC 491",
       "url": "https://www.ratemyprofessors.com/professor/2382378",
       "doc_type": "rmp",
-      "source_file": "rmp_ryu_christopher.txt"
+      "source_file": "rmp_ryu_christopher.txt",
+      "chunk_index": 9,
+      "chunk_count": 10
     }
   },
   {
@@ -536,7 +624,9 @@
       "course": "CPSC 491",
       "url": "https://www.ratemyprofessors.com/professor/2382378",
       "doc_type": "rmp",
-      "source_file": "rmp_ryu_christopher.txt"
+      "source_file": "rmp_ryu_christopher.txt",
+      "chunk_index": 10,
+      "chunk_count": 10
     }
   },
   {
@@ -548,7 +638,9 @@
       "course": "CPSC 483",
       "url": "https://www.ratemyprofessors.com/professor/2552839",
       "doc_type": "rmp",
-      "source_file": "rmp_sood_kanika.txt"
+      "source_file": "rmp_sood_kanika.txt",
+      "chunk_index": 1,
+      "chunk_count": 10
     }
   },
   {
@@ -560,7 +652,9 @@
       "course": "CPSC 483",
       "url": "https://www.ratemyprofessors.com/professor/2552839",
       "doc_type": "rmp",
-      "source_file": "rmp_sood_kanika.txt"
+      "source_file": "rmp_sood_kanika.txt",
+      "chunk_index": 2,
+      "chunk_count": 10
     }
   },
   {
@@ -572,7 +666,9 @@
       "course": "CPSC 483",
       "url": "https://www.ratemyprofessors.com/professor/2552839",
       "doc_type": "rmp",
-      "source_file": "rmp_sood_kanika.txt"
+      "source_file": "rmp_sood_kanika.txt",
+      "chunk_index": 3,
+      "chunk_count": 10
     }
   },
   {
@@ -584,7 +680,9 @@
       "course": "CPSC 483",
       "url": "https://www.ratemyprofessors.com/professor/2552839",
       "doc_type": "rmp",
-      "source_file": "rmp_sood_kanika.txt"
+      "source_file": "rmp_sood_kanika.txt",
+      "chunk_index": 4,
+      "chunk_count": 10
     }
   },
   {
@@ -596,7 +694,9 @@
       "course": "CPSC 483",
       "url": "https://www.ratemyprofessors.com/professor/2552839",
       "doc_type": "rmp",
-      "source_file": "rmp_sood_kanika.txt"
+      "source_file": "rmp_sood_kanika.txt",
+      "chunk_index": 5,
+      "chunk_count": 10
     }
   },
   {
@@ -608,7 +708,9 @@
       "course": "CPSC 483",
       "url": "https://www.ratemyprofessors.com/professor/2552839",
       "doc_type": "rmp",
-      "source_file": "rmp_sood_kanika.txt"
+      "source_file": "rmp_sood_kanika.txt",
+      "chunk_index": 6,
+      "chunk_count": 10
     }
   },
   {
@@ -620,7 +722,9 @@
       "course": "CPSC 483",
       "url": "https://www.ratemyprofessors.com/professor/2552839",
       "doc_type": "rmp",
-      "source_file": "rmp_sood_kanika.txt"
+      "source_file": "rmp_sood_kanika.txt",
+      "chunk_index": 7,
+      "chunk_count": 10
     }
   },
   {
@@ -632,7 +736,9 @@
       "course": "CPSC 483",
       "url": "https://www.ratemyprofessors.com/professor/2552839",
       "doc_type": "rmp",
-      "source_file": "rmp_sood_kanika.txt"
+      "source_file": "rmp_sood_kanika.txt",
+      "chunk_index": 8,
+      "chunk_count": 10
     }
   },
   {
@@ -644,7 +750,9 @@
       "course": "CPSC 483",
       "url": "https://www.ratemyprofessors.com/professor/2552839",
       "doc_type": "rmp",
-      "source_file": "rmp_sood_kanika.txt"
+      "source_file": "rmp_sood_kanika.txt",
+      "chunk_index": 9,
+      "chunk_count": 10
     }
   },
   {
@@ -656,7 +764,9 @@
       "course": "CPSC 315",
       "url": "https://www.ratemyprofessors.com/professor/2552839",
       "doc_type": "rmp",
-      "source_file": "rmp_sood_kanika.txt"
+      "source_file": "rmp_sood_kanika.txt",
+      "chunk_index": 10,
+      "chunk_count": 10
     }
   }
 ]

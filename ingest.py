@@ -166,6 +166,8 @@ def chunk_rmp(doc):
                 "url": doc["url"],
                 "doc_type": "rmp",
                 "source_file": doc["filename"],
+                "chunk_index": i,            # 1-based position of this review in the file
+                "chunk_count": len(parts),   # total reviews in the file ("review i of N")
             },
         })
     return chunks
@@ -190,6 +192,8 @@ def chunk_reddit(doc):
             "url": doc["url"],
             "doc_type": "reddit",
             "source_file": doc["filename"],
+            "chunk_index": 1,    # whole file is a single chunk -> position 1 of 1
+            "chunk_count": 1,
         },
     }]
 
@@ -212,6 +216,8 @@ def chunk_document(doc):
                 "url": doc["url"],
                 "doc_type": "unknown",
                 "source_file": doc["filename"],
+                "chunk_index": 1,    # whole file treated as one chunk -> position 1 of 1
+                "chunk_count": 1,
             },
         }]
 
