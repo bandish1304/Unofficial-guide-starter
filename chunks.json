@@ -1,0 +1,662 @@
+[
+  {
+    "id": "reddit_cpsc375_panangadan_thread",
+    "text": "Reddit thread: Thread - \"Has anyone taken CPSC 375 with Anand Panangadan or has experience with CPSC 476?\" (CPSC 375, Dr. P / data science elective)\n--- Original Post (WolffNess, Flair: Prof/Class Inquiry) ---\nTrying to choose one last CS elective for fall so I wanted to know if anyone has any insight on how difficult/time consuming/useful these classes are. Thanks!\n\n--- Comments ---\n\n[deleted] (7y ago):\nI took CPSC 375 with Dr. P. Basically the whole class is based on R. Overall it was an easy class but the two projects that are given are pretty tough. The first one was using R and the second one uses Apache Spark which requires the first project.\n\nWolffNess (OP):\nThank you for this! Overall would you recommend it to someone who's not super interested in data science? And is there any content on machine learning? I saw the catalog description mentioned it could cover it.\n\n[deleted] (7y ago):\nMachine learning is half the class material such as supervised/unsupervised learning, train data and test data, kmeans algorithm and time series. Edit: If you are into or want to know data science I would take it.\n\n7g23 (7y ago):\nDid you just take it this semester? I thought the second project was easy. Sure installing Spark is hit or miss but the actual project was just getting his sample code to run.\n\n[deleted] (7y ago):\nI did take it this semester, I had problems installing it :( since it requires Java 8 and I had Java 11. I should have mentioned that installing it is the hard part of the second project.\n\n7g23 (7y ago):\nI just took it. Fun class if you love analysing statistics. And if you don't it's still an easy class. Attendance isn't mandatory, there are no quizzes, there's a homework assignment every 2 or 3 weeks, and exams are open book and open PowerPoints. He basically just went over R and a bunch of really useful things to do in R like: cleaning and transforming data, predicting data with a few machine learning algorithms, time series analysis, and text analysis. Not hard, not really time consuming either, pretty cool, and really useful if you are often forced to interpret and predict data in your daily life.\n\n[deleted] (7y ago):\nAgreed. I took it because one, I wanted to know what data science is, and two, I thought Python would be used but that's in CPSC 483.\n\nWolffNess (OP):\nThanks so much! One last question, if I disliked Math 338 do you think I'll still enjoy this class?\n\n7g23 (7y ago):\nProbably. We didn't really go deep into statistics or how to waste time calculating things by hand. But getting used to R again after 338 was annoying for the first few hours.\n\nKentaii (7y ago):\nDo 375 and 349 count towards elective credits? They aren't showing up as so on my TDA.\n\nQuelGecko (7y ago):\nUpdate: just go to the CS department, they will have you sign a form to get the credits approved.",
+    "metadata": {
+      "source": "Reddit (r/csuf)",
+      "professor_or_topic": "Thread - \"Has anyone taken CPSC 375 with Anand Panangadan or has experience with CPSC 476?\" (CPSC 375, Dr. P / data science elective)",
+      "course": "Unknown",
+      "url": "https://www.reddit.com/r/csuf/comments/br50p6/has_anyone_taken_cpsc_375_with_anand_panangadan/",
+      "doc_type": "reddit",
+      "source_file": "reddit_cpsc375_panangadan.txt"
+    }
+  },
+  {
+    "id": "reddit_mira_kim_thread",
+    "text": "Reddit thread: Dr. Mira Kim (CPSC 481 Artificial Intelligence, CPSC 362)\n--- Thread 1: \"CPSC 481 - Dr. Mira Kim\" (Flair: Professors) ---\nPost: Hey guys, if you took Dr. Mira Kim for CPSC 481 before, can I ask you some questions? Also, is she a tough grader?\n\nComment (Salt-Ganache9713, 9mo ago):\nI took her class last semester, she's not a tough grader at all.\n\n--- Thread 2: CPSC 481 (Artificial Intelligence) difficulty with Mira Kim ---\nPost: Is CPSC 481 (Artificial Intelligence) too difficult and challenging a class to study? I am going to take this class with Mira Kim. Any opinions about it?\n\nComment (shadowwizard296, 2y ago):\nIt's the best class I've ever taken, just took it last semester, it was great. It's not that hard - weekly homework that you have infinite attempts on, some quizzes that are pretty easy, one group project, and a midterm and final that are not that hard, mostly multiple choice questions. She lets you have 2 pages of notes with you while you take the tests. The quizzes are online and can be taken anytime.\n\n--- Thread 3: Which class to drop - CPSC 455 (Web Security, Kenytt Avery) vs CPSC 481 (AI, Mira Kim) ---\nPost: Which class should I drop, CPSC 455 Web Security by Kenytt Avery or CPSC 481 Artificial Intelligence with Mira Kim? Any recommendations.\n\nComment (Cheshire379, 2y ago):\nMy personal opinion, drop Web Sec. AI is pretty hot right now so that class could be very interesting. Both are good subjects but if I had to choose 1 to drop I'd drop Web Sec.\n\nComment (LordeLucifer, 2y ago):\nI had Mira Kim for 362 she's really nice and easy going but I can't say about the other professor.",
+    "metadata": {
+      "source": "Reddit (r/csuf) - aggregated search results for \"Mira Kim\" (multiple threads)",
+      "professor_or_topic": "Dr. Mira Kim (CPSC 481 Artificial Intelligence, CPSC 362)",
+      "course": "Unknown",
+      "url": "https://www.reddit.com/r/csuf/search/?q=Mira+Kim",
+      "doc_type": "reddit",
+      "source_file": "reddit_mira_kim.txt"
+    }
+  },
+  {
+    "id": "reddit_ning_chen_contact_thread",
+    "text": "Reddit thread: Thread - \"CS: Prof Ning Chen\" (contacting Prof Ning Chen, CPSC 477)\n--- Original Post ---\nTitle: CS: Prof Ning Chen\nFlair: Professors\n\nIs anyone currently taking him right now for Summer Session B for CPSC 477? I've been trying to contact him about enrolling into his class for the past week, however he hasn't responded. I talked to the CS Dept and they said there is really little they can do. Just wondering if he has any other methods of reaching out to him besides the email and phone number listed on the Faculty site.\n\n--- Comments ---\n(No replies captured.)",
+    "metadata": {
+      "source": "Reddit (r/csuf)",
+      "professor_or_topic": "Thread - \"CS: Prof Ning Chen\" (contacting Prof Ning Chen, CPSC 477)",
+      "course": "Unknown",
+      "url": "https://www.reddit.com/r/csuf/comments/1dupxrm/cs_prof_ning_chen/",
+      "doc_type": "reddit",
+      "source_file": "reddit_ning_chen_contact.txt"
+    }
+  },
+  {
+    "id": "reddit_profs_to_avoid_thread",
+    "text": "Reddit thread: \"Which CPSC professors to avoid at CSUF\" (multi-professor roundup)\nPROVENANCE NOTE (important): This is a Reddit Answers AI-generated summary, NOT raw\nstudent posts. It cites r/UCalgary (University of Calgary) as a source in addition to\nr/csuf, and Calgary also uses \"CPSC\" course codes - so some claims may not be about CSUF.\nTreat the named quotes as student voice but verify professor/school before relying on them.\n\n--- Which CPSC Professors To Avoid At CSUF ---\n\nCommonly Called-Out Instructors:\n\n- Avoid McCarthy: Students say \"Under all circumstances, avoid McCarthy.\" \"He spends more\n  time talking about potential interviews than actually teaching code.\" \"Taking his class,\n  you could tell he knows his stuff, but he should not be teaching at all.\"\n\n- Avoid Holliday for Assembly / CPSC 240: \"CPSC 240 (assembly) with Holliday. He couldn't\n  actually do any of the assembly so when we asked for help he just said Google it.\"\n\n- Avoid Stephen May / Eric May (reports vary): \"Avoid Stephen May he's horrible\" and\n  \"Eric May classes become ghost towns towards the end of the semester.\"\n\n- Avoid Yun Tian (teaching clarity issues): \"Yun Tian tries her best to teach but you\n  won't understand a single thing she says. Her accent is very thick and trying to listen\n  to her can be difficult.\"\n\nProfessors Students Describe As \"Poor Teachers\" Or Unreliable:\n\n- Instructors who don't teach / require self-study: \"Prepare to teach yourself. He doesn't\n  teach\" - cited specifically about Mehdi Peiravi by a dissenting commenter.\n\n- Instructors with low engagement or organization: professors who \"read off board, not much\n  explanation during lectures, VERY rough midterm averages\" for some courses.\n\n- Tenured but unhelpful instructors: \"Holliday... was ancient and had tenure so nobody\n  could do anything.\"",
+    "metadata": {
+      "source": "Reddit Answers (AI-generated synthesis) - sources cited: r/csuf, r/UCalgary",
+      "professor_or_topic": "\"Which CPSC professors to avoid at CSUF\" (multi-professor roundup)",
+      "course": "Unknown",
+      "url": "https://www.reddit.com/answers/597a2e2c-c48b-4cb5-a994-69fd265f68bf/?q=CPSC+professors+avoid+csuf",
+      "doc_type": "reddit",
+      "source_file": "reddit_profs_to_avoid.txt"
+    }
+  },
+  {
+    "id": "rmp_abdoli_alireza_review_1",
+    "text": "Professor: Alireza Abdoli (Computer Science, CSUF)\nCourse: CPSC 449 | Date: Jan 16, 2026\nQuality: 1.0 | Difficulty: 1.0 | Grade: A | Attendance: Not Mandatory\nTags: Helpful\nThe lectures consisted of him talking about certificates and assigning them as homework. This was a 3 hr Sat class, but he would leave less than an hour in and have his colleague \"teach\" the rest of the time. He does not reply to emails or messages. There were incorrect exam answers that were never fixed or regraded. The course was a waste of time.",
+    "metadata": {
+      "source": "Rate My Professors",
+      "professor_or_topic": "Alireza Abdoli (Computer Science, CSUF)",
+      "course": "CPSC 449",
+      "url": "https://www.ratemyprofessors.com/professor/2803384",
+      "doc_type": "rmp",
+      "source_file": "rmp_abdoli_alireza.txt"
+    }
+  },
+  {
+    "id": "rmp_abdoli_alireza_review_2",
+    "text": "Professor: Alireza Abdoli (Computer Science, CSUF)\nCourse: CPSC 449 | Date: Dec 18, 2025\nQuality: 1.0 | Difficulty: 1.0 | Grade: A+ | Attendance: Not Mandatory\nTags: Hilarious, Helpful\nHe never teaches. The entire semester he just gives you online courses, and you have to learn everything yourself. This class is basically passive income for him. He keeps you busy, doesn't reply to emails, has incorrect exam answers, no syllabus, rarely shows up, and his project has no rubric, just endless adding work until your semester ends.",
+    "metadata": {
+      "source": "Rate My Professors",
+      "professor_or_topic": "Alireza Abdoli (Computer Science, CSUF)",
+      "course": "CPSC 449",
+      "url": "https://www.ratemyprofessors.com/professor/2803384",
+      "doc_type": "rmp",
+      "source_file": "rmp_abdoli_alireza.txt"
+    }
+  },
+  {
+    "id": "rmp_abdoli_alireza_review_3",
+    "text": "Professor: Alireza Abdoli (Computer Science, CSUF)\nCourse: CPSC 449 | Date: Dec 13, 2025\nQuality: 1.0 | Difficulty: 3.0 | Attendance: Not Mandatory\nTags: Helpful\nProfessor rarely teaches, having to rely on a sub that comes in to teach the rest of the class while he leaves after teaching for 30 minutes. Barely any resources on Canvas to try to learn the material. Uses discord but any personal email or message sent will never get responded to. Overall sloppy and is a waste of an almost 3 hour class.",
+    "metadata": {
+      "source": "Rate My Professors",
+      "professor_or_topic": "Alireza Abdoli (Computer Science, CSUF)",
+      "course": "CPSC 449",
+      "url": "https://www.ratemyprofessors.com/professor/2803384",
+      "doc_type": "rmp",
+      "source_file": "rmp_abdoli_alireza.txt"
+    }
+  },
+  {
+    "id": "rmp_abdoli_alireza_review_4",
+    "text": "Professor: Alireza Abdoli (Computer Science, CSUF)\nCourse: CPSC 449 | Date: Nov 8, 2025\nQuality: 3.0 | Difficulty: 1.0 | Grade: A | Attendance: Not Mandatory\nTags: Lots of homework, Helpful\nHe never replies to your email, rarely keeps Canvas updated, but tends to use only Discord. He rarely teaches since he always assigns homework to you to take only certificates by yourself. Most of the time, his sub has to teach boringly or just follow up with your final project each week (you meet Ali less than 40 minutes out of 2.45 hours of class).",
+    "metadata": {
+      "source": "Rate My Professors",
+      "professor_or_topic": "Alireza Abdoli (Computer Science, CSUF)",
+      "course": "CPSC 449",
+      "url": "https://www.ratemyprofessors.com/professor/2803384",
+      "doc_type": "rmp",
+      "source_file": "rmp_abdoli_alireza.txt"
+    }
+  },
+  {
+    "id": "rmp_abdoli_alireza_review_5",
+    "text": "Professor: Alireza Abdoli (Computer Science, CSUF)\nCourse: CPSC 481 | Date: Apr 17, 2025\nQuality: 5.0 | Difficulty: 2.0 | Grade: A | Would Take Again: Yes | Attendance: Mandatory\nHe gives really good advice and is straightforward; the way he helps is by allowing you to figure it out first then he will help. The attendance is mandatory for both lectures and labs. Overall he's a great professor.",
+    "metadata": {
+      "source": "Rate My Professors",
+      "professor_or_topic": "Alireza Abdoli (Computer Science, CSUF)",
+      "course": "CPSC 481",
+      "url": "https://www.ratemyprofessors.com/professor/2803384",
+      "doc_type": "rmp",
+      "source_file": "rmp_abdoli_alireza.txt"
+    }
+  },
+  {
+    "id": "rmp_abdoli_alireza_review_6",
+    "text": "Professor: Alireza Abdoli (Computer Science, CSUF)\nCourse: CPSC 481 | Date: Dec 11, 2024\nQuality: 5.0 | Difficulty: 2.0 | Grade: B | Would Take Again: Yes | Attendance: Not Mandatory\nTags: Amazing lectures, Gives good feedback, Accessible outside class, Helpful\nHe's fresh out of the tech industry. Gives excellent realistic/up-to-date advice. Homework came from external online courses. The certificates that you obtained from the online courses will help build your portfolio. Stress free Midterm and Final. Overall, highly recommend.",
+    "metadata": {
+      "source": "Rate My Professors",
+      "professor_or_topic": "Alireza Abdoli (Computer Science, CSUF)",
+      "course": "CPSC 481",
+      "url": "https://www.ratemyprofessors.com/professor/2803384",
+      "doc_type": "rmp",
+      "source_file": "rmp_abdoli_alireza.txt"
+    }
+  },
+  {
+    "id": "rmp_abdoli_alireza_review_7",
+    "text": "Professor: Alireza Abdoli (Computer Science, CSUF)\nCourse: CPSC 481 | Date: Nov 13, 2024\nQuality: 5.0 | Difficulty: 3.0 | Grade: A | Would Take Again: Yes | Attendance: Not Mandatory\nTags: Get ready to read, Lots of homework, Lecture heavy\nVery chill professor, most assignments are usually online courses/certifications that you can eventually put on LinkedIn (Google, AWS, Oracle, etc). Lectures are 3/5, because he does tend to linger on certain topics. Easy A if you can do your assignments on time and attend his lectures.",
+    "metadata": {
+      "source": "Rate My Professors",
+      "professor_or_topic": "Alireza Abdoli (Computer Science, CSUF)",
+      "course": "CPSC 481",
+      "url": "https://www.ratemyprofessors.com/professor/2803384",
+      "doc_type": "rmp",
+      "source_file": "rmp_abdoli_alireza.txt"
+    }
+  },
+  {
+    "id": "rmp_kung_kenneth_review_1",
+    "text": "Professor: Kenneth Kung (Computer Science, CSUF)\nCourse: CPSC 353 | Date: Nov 10, 2021\nQuality: 5.0 | Difficulty: 2.0 | Grade: A- | Would Take Again: Yes | Attendance: Mandatory | Online Class: Yes\nTags: Gives good feedback, Inspirational, Amazing lectures, Helpful\nEasy Professor, Easy A similar to Heckathorn. Take-home tests which get you thinking, 2 stages: stage 1 you take your test, 2 days to take it; stage 2 work with people to change your answers, possible extra credit if you improve your answers. Very easy A and fun to learn from the professor. Quiz canvases are super easy. Be nice to the professor.",
+    "metadata": {
+      "source": "Rate My Professors",
+      "professor_or_topic": "Kenneth Kung (Computer Science, CSUF)",
+      "course": "CPSC 353",
+      "url": "https://www.ratemyprofessors.com/professor/215430",
+      "doc_type": "rmp",
+      "source_file": "rmp_kung_kenneth.txt"
+    }
+  },
+  {
+    "id": "rmp_kung_kenneth_review_2",
+    "text": "Professor: Kenneth Kung (Computer Science, CSUF)\nCourse: CPSC 353 | Date: May 19, 2021\nQuality: 5.0 | Difficulty: 3.0 | Would Take Again: Yes\nTags: Caring, Clear grading criteria, Helpful\nProfessor Kung's teaching style and the way he sets up the class makes it an enjoyable experience. He is clear in his grading and is lenient when grading exams and other assignments. His exams are open notes but really make you think about the questions and topics presented and you learn a lot more as a result. I strongly recommend him for 353.",
+    "metadata": {
+      "source": "Rate My Professors",
+      "professor_or_topic": "Kenneth Kung (Computer Science, CSUF)",
+      "course": "CPSC 353",
+      "url": "https://www.ratemyprofessors.com/professor/215430",
+      "doc_type": "rmp",
+      "source_file": "rmp_kung_kenneth.txt"
+    }
+  },
+  {
+    "id": "rmp_kung_kenneth_review_3",
+    "text": "Professor: Kenneth Kung (Computer Science, CSUF)\nCourse: CPSC 353 | Date: Nov 16, 2020\nQuality: 4.0 | Difficulty: 2.0 | Grade: A+ | Would Take Again: Yes | Attendance: Mandatory\nTags: Respected, Clear grading criteria, Caring, Helpful\nOverall, he's a great professor. His teaching style is good and grading criteria is clear and somewhat easy. Quizzes for every chapter, but they're relatively easy. Exams are clear and short. One research paper, you basically have 4 months to do it. He clearly answers questions and cares about your response.",
+    "metadata": {
+      "source": "Rate My Professors",
+      "professor_or_topic": "Kenneth Kung (Computer Science, CSUF)",
+      "course": "CPSC 353",
+      "url": "https://www.ratemyprofessors.com/professor/215430",
+      "doc_type": "rmp",
+      "source_file": "rmp_kung_kenneth.txt"
+    }
+  },
+  {
+    "id": "rmp_kung_kenneth_review_4",
+    "text": "Professor: Kenneth Kung (Computer Science, CSUF)\nCourse: CPSC 440 | Date: Dec 11, 2018\nQuality: 2.0 | Difficulty: 1.0 | Grade: B | Would Take Again: No | Attendance: Not Mandatory\nTags: Accessible outside class, Clear grading criteria, Caring, Helpful\nDon't get me wrong, Kenneth Kung is a great person and he knows his stuff. I feel like he might not be the best at teaching certain classes in CPSC. Some of the assembly based classes are difficult to explain and Kung sometimes has a hard time explaining. Sometimes it felt like he was teaching the first 2 rows and would forget the rest of the class.",
+    "metadata": {
+      "source": "Rate My Professors",
+      "professor_or_topic": "Kenneth Kung (Computer Science, CSUF)",
+      "course": "CPSC 440",
+      "url": "https://www.ratemyprofessors.com/professor/215430",
+      "doc_type": "rmp",
+      "source_file": "rmp_kung_kenneth.txt"
+    }
+  },
+  {
+    "id": "rmp_kung_kenneth_review_5",
+    "text": "Professor: Kenneth Kung (Computer Science, CSUF)\nCourse: CPSC 589 | Date: Nov 29, 2018\nQuality: 5.0 | Difficulty: 3.0 | Would Take Again: Yes | Attendance: Mandatory\nTags: Participation matters, Inspirational, Hilarious, Helpful\nProf. Kung is extremely accomplished, and most likely a genius -- not kidding, ask about his background. His lectures were great and very organized. I learned a ton of useful skills in his class, even though it was just a seminar class! CSUF absolutely needs professors like Dr. Kung.",
+    "metadata": {
+      "source": "Rate My Professors",
+      "professor_or_topic": "Kenneth Kung (Computer Science, CSUF)",
+      "course": "CPSC 589",
+      "url": "https://www.ratemyprofessors.com/professor/215430",
+      "doc_type": "rmp",
+      "source_file": "rmp_kung_kenneth.txt"
+    }
+  },
+  {
+    "id": "rmp_kung_kenneth_review_6",
+    "text": "Professor: Kenneth Kung (Computer Science, CSUF)\nCourse: CPSC 589 | Date: Jun 3, 2016\nQuality: 5.0 | Difficulty: 1.0 | Grade: A+ | Would Take Again: Yes | Attendance: Mandatory\nTags: Helpful\nOne of the best professors and individuals I have met in my life. He has vast knowledge and is super wealthy, but he is a down to earth person. He makes every student feel comfortable during their presentation, provides positive feedback and key areas for improvement. Very fast grader.",
+    "metadata": {
+      "source": "Rate My Professors",
+      "professor_or_topic": "Kenneth Kung (Computer Science, CSUF)",
+      "course": "CPSC 589",
+      "url": "https://www.ratemyprofessors.com/professor/215430",
+      "doc_type": "rmp",
+      "source_file": "rmp_kung_kenneth.txt"
+    }
+  },
+  {
+    "id": "rmp_kung_kenneth_review_7",
+    "text": "Professor: Kenneth Kung (Computer Science, CSUF)\nCourse: CPSC 589 | Date: Dec 30, 2014\nQuality: 5.0 | Difficulty: 1.0 | Grade: A+ | Attendance: Not Mandatory\nTags: Helpful\nProf. Kung is an exceptional professor. Helpful, generous and fast grader. Has a wealth of experience in both the academic world and the industry (defense), so talk to him about it! He has a lot of great advice. I was annoyed by many of the other students that took advantage of him (showed up only for their presentations, were disrespectful).",
+    "metadata": {
+      "source": "Rate My Professors",
+      "professor_or_topic": "Kenneth Kung (Computer Science, CSUF)",
+      "course": "CPSC 589",
+      "url": "https://www.ratemyprofessors.com/professor/215430",
+      "doc_type": "rmp",
+      "source_file": "rmp_kung_kenneth.txt"
+    }
+  },
+  {
+    "id": "rmp_kung_kenneth_review_8",
+    "text": "Professor: Kenneth Kung (Computer Science, CSUF)\nCourse: CPSC 440 | Date: Jul 4, 2014\nQuality: 4.5 | Difficulty: 3.0 | Grade: A | Attendance: Mandatory\nTags: Helpful\nIncredibly kind and generous professor. Very helpful during office hours. Even though the tests are open notes/book, don't be caught off guard. You need to understand the concepts to score well. Tip: when you get to the section about \"critical path,\" make sure you especially understand what that means and what pieces of hardware are involved.",
+    "metadata": {
+      "source": "Rate My Professors",
+      "professor_or_topic": "Kenneth Kung (Computer Science, CSUF)",
+      "course": "CPSC 440",
+      "url": "https://www.ratemyprofessors.com/professor/215430",
+      "doc_type": "rmp",
+      "source_file": "rmp_kung_kenneth.txt"
+    }
+  },
+  {
+    "id": "rmp_kung_kenneth_review_9",
+    "text": "Professor: Kenneth Kung (Computer Science, CSUF)\nCourse: CPSC 440 | Date: May 28, 2014\nQuality: 5.0 | Difficulty: 1.0 | Grade: A | Attendance: Mandatory\nTags: Helpful\nGood professor. Seven homework assignments, two midterms and a final. All exams are open book, open notes and most questions are directly from the book or homework assignments. The book is really easy read. Lectures are on Titanium if you miss class.",
+    "metadata": {
+      "source": "Rate My Professors",
+      "professor_or_topic": "Kenneth Kung (Computer Science, CSUF)",
+      "course": "CPSC 440",
+      "url": "https://www.ratemyprofessors.com/professor/215430",
+      "doc_type": "rmp",
+      "source_file": "rmp_kung_kenneth.txt"
+    }
+  },
+  {
+    "id": "rmp_kung_kenneth_review_10",
+    "text": "Professor: Kenneth Kung (Computer Science, CSUF)\nCourse: CPSC 589 | Date: Jan 8, 2014\nQuality: 5.0 | Difficulty: 1.0 | Attendance: Mandatory\nTags: Helpful\nHe is the best professor, clear and very very helpful. The class was very easy and he made it more enjoyable. Highly recommended.",
+    "metadata": {
+      "source": "Rate My Professors",
+      "professor_or_topic": "Kenneth Kung (Computer Science, CSUF)",
+      "course": "CPSC 589",
+      "url": "https://www.ratemyprofessors.com/professor/215430",
+      "doc_type": "rmp",
+      "source_file": "rmp_kung_kenneth.txt"
+    }
+  },
+  {
+    "id": "rmp_nguyen_son_review_1",
+    "text": "Professor: Son Nguyen (Computer Science, CSUF)\nCourse: CPSC 471 | Date: Mar 25, 2026\nQuality: 1.0 | Difficulty: 5.0 | Grade: B- | Attendance: Mandatory\nTags: Tough grader, Get ready to read, Group projects, Helpful\nTake this professor if you want a class that bases all of its quizzes and exams based solely off of trivia found in the slides and a group project which is worth a huge portion of your grade and yet has almost nothing to do with the subject. He also complained about how everyone got low grades on exams/homework, but did not care to adjust them.",
+    "metadata": {
+      "source": "Rate My Professors",
+      "professor_or_topic": "Son Nguyen (Computer Science, CSUF)",
+      "course": "CPSC 471",
+      "url": "https://www.ratemyprofessors.com/professor/1966157",
+      "doc_type": "rmp",
+      "source_file": "rmp_nguyen_son.txt"
+    }
+  },
+  {
+    "id": "rmp_nguyen_son_review_2",
+    "text": "Professor: Son Nguyen (Computer Science, CSUF)\nCourse: CPSC 546 | Date: Feb 20, 2026\nQuality: 2.0 | Difficulty: 4.0 | Grade: Rather not say | Attendance: Mandatory\nTags: Tough grader, Get ready to read, Group projects, Helpful\nFriendly but a poor lecturer. He mainly reads off slides and has mandatory attendance. While he did acknowledge the problem, exams and quizzes are bloated with trivia questions irrelevant to the subject. Group projects were terribly managed as underperforming group members can drag your grade down with them during the report and presentation.",
+    "metadata": {
+      "source": "Rate My Professors",
+      "professor_or_topic": "Son Nguyen (Computer Science, CSUF)",
+      "course": "CPSC 546",
+      "url": "https://www.ratemyprofessors.com/professor/1966157",
+      "doc_type": "rmp",
+      "source_file": "rmp_nguyen_son.txt"
+    }
+  },
+  {
+    "id": "rmp_nguyen_son_review_3",
+    "text": "Professor: Son Nguyen (Computer Science, CSUF)\nCourse: CPSC 544 | Date: Dec 15, 2025\nQuality: 1.0 | Difficulty: 3.0 | Attendance: Mandatory\nTags: Participation matters, Group projects, Helpful\nThe group project didn't accomplish anything meaningful, yet the product owner marked my participation as fake. I reported the situation to the professor, but they did not address it or take any action, and my grade was still dropped from 88 to 82.",
+    "metadata": {
+      "source": "Rate My Professors",
+      "professor_or_topic": "Son Nguyen (Computer Science, CSUF)",
+      "course": "CPSC 544",
+      "url": "https://www.ratemyprofessors.com/professor/1966157",
+      "doc_type": "rmp",
+      "source_file": "rmp_nguyen_son.txt"
+    }
+  },
+  {
+    "id": "rmp_nguyen_son_review_4",
+    "text": "Professor: Son Nguyen (Computer Science, CSUF)\nCourse: CPSC 546 | Date: Dec 15, 2025\nQuality: 1.0 | Difficulty: 3.0 | Attendance: Mandatory\nTags: Participation matters, Group projects, Helpful\nThis course was disappointing. The group project was poorly managed-most members faked work. I was unfairly removed and marked as not participating, lowering my grade. The instructor gave little oversight, and I learned nothing but frustration. Worst course I've taken.",
+    "metadata": {
+      "source": "Rate My Professors",
+      "professor_or_topic": "Son Nguyen (Computer Science, CSUF)",
+      "course": "CPSC 546",
+      "url": "https://www.ratemyprofessors.com/professor/1966157",
+      "doc_type": "rmp",
+      "source_file": "rmp_nguyen_son.txt"
+    }
+  },
+  {
+    "id": "rmp_nguyen_son_review_5",
+    "text": "Professor: Son Nguyen (Computer Science, CSUF)\nCourse: CPSC 362 | Date: Dec 11, 2025\nQuality: 5.0 | Difficulty: 1.0 | Grade: A | Would Take Again: Yes | Attendance: Mandatory\nTags: Participation matters, Respected, Lecture heavy\nI had 471 with him, but his class is pretty standard, nothing out of the ordinary. Kind professor and is very approachable.",
+    "metadata": {
+      "source": "Rate My Professors",
+      "professor_or_topic": "Son Nguyen (Computer Science, CSUF)",
+      "course": "CPSC 362",
+      "url": "https://www.ratemyprofessors.com/professor/1966157",
+      "doc_type": "rmp",
+      "source_file": "rmp_nguyen_son.txt"
+    }
+  },
+  {
+    "id": "rmp_nguyen_son_review_6",
+    "text": "Professor: Son Nguyen (Computer Science, CSUF)\nCourse: CPSC 546 | Date: Dec 2, 2025\nQuality: 5.0 | Difficulty: 3.0 | Grade: A | Would Take Again: Yes | Attendance: Mandatory\nTags: Participation matters, Extra credit, Group projects, Helpful\nHe has a method of teaching, grading and testing that when you figure out, you can succeed. Quizzes are about 20 questions; you should do presentation and participation.",
+    "metadata": {
+      "source": "Rate My Professors",
+      "professor_or_topic": "Son Nguyen (Computer Science, CSUF)",
+      "course": "CPSC 546",
+      "url": "https://www.ratemyprofessors.com/professor/1966157",
+      "doc_type": "rmp",
+      "source_file": "rmp_nguyen_son.txt"
+    }
+  },
+  {
+    "id": "rmp_nguyen_son_review_7",
+    "text": "Professor: Son Nguyen (Computer Science, CSUF)\nCourse: CPSC 362 | Date: Nov 10, 2025\nQuality: 4.0 | Difficulty: 2.0 | Grade: A | Would Take Again: Yes | Attendance: Mandatory\nTags: Group projects, Gives good feedback\nI took CPSC 471 with him btw. The giant group project was easy. It involved a lot of meetings outside of class (we used Discord). His lectures are boring because all he does is just read off of slides. Online quizzes are easy & short. You'll learn and use software called Wireshark the entire course. Assignments are easy but time consuming.",
+    "metadata": {
+      "source": "Rate My Professors",
+      "professor_or_topic": "Son Nguyen (Computer Science, CSUF)",
+      "course": "CPSC 362",
+      "url": "https://www.ratemyprofessors.com/professor/1966157",
+      "doc_type": "rmp",
+      "source_file": "rmp_nguyen_son.txt"
+    }
+  },
+  {
+    "id": "rmp_panangadan_anand_review_1",
+    "text": "Professor: Anand Panangadan (Computer Science, CSUF)\nCourse: CPSC 481 | Date: May 23, 2026\nQuality: 5.0 | Difficulty: 3.0 | Grade: A | Would Take Again: Yes | Attendance: Mandatory\nTags: Amazing lectures, Caring, Lecture heavy\nHe really teaches great. On top of that he also extends HW/projects deadline on request. Very good guy and amazing lectures.",
+    "metadata": {
+      "source": "Rate My Professors",
+      "professor_or_topic": "Anand Panangadan (Computer Science, CSUF)",
+      "course": "CPSC 481",
+      "url": "https://www.ratemyprofessors.com/professor/2078580",
+      "doc_type": "rmp",
+      "source_file": "rmp_panangadan_anand.txt"
+    }
+  },
+  {
+    "id": "rmp_panangadan_anand_review_2",
+    "text": "Professor: Anand Panangadan (Computer Science, CSUF)\nCourse: CPSC 481 | Date: Dec 23, 2025\nQuality: 5.0 | Difficulty: 3.0 | Grade: A+ | Would Take Again: Yes | Attendance: Not Mandatory\nTags: Group projects, Gives good feedback, Respected, Helpful\nHe was great! Trust me, you want to take his class. His lectures were kind of normal (not extraordinary), but if you had questions he will explain in depth so that you understand it. He is also very kind.",
+    "metadata": {
+      "source": "Rate My Professors",
+      "professor_or_topic": "Anand Panangadan (Computer Science, CSUF)",
+      "course": "CPSC 481",
+      "url": "https://www.ratemyprofessors.com/professor/2078580",
+      "doc_type": "rmp",
+      "source_file": "rmp_panangadan_anand.txt"
+    }
+  },
+  {
+    "id": "rmp_panangadan_anand_review_3",
+    "text": "Professor: Anand Panangadan (Computer Science, CSUF)\nCourse: CPSC 481 | Date: Jul 7, 2025\nQuality: 5.0 | Difficulty: 2.0 | Grade: A | Would Take Again: Yes | Attendance: Not Mandatory\nTags: Amazing lectures, Caring, Respected\nDr. P is easily one of the best CS instructors at CSUF. Will explain any level of detail to you, cares if you are understanding, and is very relatable in his teaching style. Exams are JUST like the homework. This class was very manageable as a summer class and I did not feel overwhelmed with work like I have in other summer classes.",
+    "metadata": {
+      "source": "Rate My Professors",
+      "professor_or_topic": "Anand Panangadan (Computer Science, CSUF)",
+      "course": "CPSC 481",
+      "url": "https://www.ratemyprofessors.com/professor/2078580",
+      "doc_type": "rmp",
+      "source_file": "rmp_panangadan_anand.txt"
+    }
+  },
+  {
+    "id": "rmp_panangadan_anand_review_4",
+    "text": "Professor: Anand Panangadan (Computer Science, CSUF)\nCourse: CPSC 375 | Date: May 27, 2024\nQuality: 4.0 | Difficulty: 4.0 | Grade: C | Would Take Again: Yes | Attendance: Mandatory\nTags: Helpful\nThis professor was a great person, no doubt about that. Very helpful. The only problem was he had a TA grading the assignments and she was a VERY strict grader. The exams were open note so at least that saved me from failing this course.",
+    "metadata": {
+      "source": "Rate My Professors",
+      "professor_or_topic": "Anand Panangadan (Computer Science, CSUF)",
+      "course": "CPSC 375",
+      "url": "https://www.ratemyprofessors.com/professor/2078580",
+      "doc_type": "rmp",
+      "source_file": "rmp_panangadan_anand.txt"
+    }
+  },
+  {
+    "id": "rmp_panangadan_anand_review_5",
+    "text": "Professor: Anand Panangadan (Computer Science, CSUF)\nCourse: CPSC 481 | Date: May 6, 2024\nQuality: 5.0 | Difficulty: 2.0 | Grade: A- | Would Take Again: Yes | Attendance: Not Mandatory\nTags: Group projects, Gives good feedback, Caring\nHis AI class was easy and lots of fun. He knows his subject well, and his class was divided evenly between lecture and practice. Lenient on due dates. He gives good feedback while being a very respectful and caring professor.",
+    "metadata": {
+      "source": "Rate My Professors",
+      "professor_or_topic": "Anand Panangadan (Computer Science, CSUF)",
+      "course": "CPSC 481",
+      "url": "https://www.ratemyprofessors.com/professor/2078580",
+      "doc_type": "rmp",
+      "source_file": "rmp_panangadan_anand.txt"
+    }
+  },
+  {
+    "id": "rmp_panangadan_anand_review_6",
+    "text": "Professor: Anand Panangadan (Computer Science, CSUF)\nCourse: CPSC 481 | Date: Nov 16, 2023\nQuality: 5.0 | Difficulty: 3.0 | Grade: A | Would Take Again: Yes\nAmazing professor! He really puts in extra effort to help students understand the material and on occasion even mentioned that our learning is more important than the assignment deadline. He's always open to answering questions and is very knowledgeable. If you are able to take his class, I highly recommend it.",
+    "metadata": {
+      "source": "Rate My Professors",
+      "professor_or_topic": "Anand Panangadan (Computer Science, CSUF)",
+      "course": "CPSC 481",
+      "url": "https://www.ratemyprofessors.com/professor/2078580",
+      "doc_type": "rmp",
+      "source_file": "rmp_panangadan_anand.txt"
+    }
+  },
+  {
+    "id": "rmp_panangadan_anand_review_7",
+    "text": "Professor: Anand Panangadan (Computer Science, CSUF)\nCourse: CPSC 481 | Date: Jan 21, 2022\nQuality: 5.0 | Difficulty: 3.0 | Grade: B | Would Take Again: Yes | Attendance: Mandatory | Online Class: Yes\nTags: Caring, Respected\nMakes the course easy. Gives homework assignments and two group projects. Final is similar to homework assignments, but harder. Don't assume that just doing the homework assignments is enough to get you an A, study extra. Lectures are very clear and classwork helps solidify concepts. Great professor.",
+    "metadata": {
+      "source": "Rate My Professors",
+      "professor_or_topic": "Anand Panangadan (Computer Science, CSUF)",
+      "course": "CPSC 481",
+      "url": "https://www.ratemyprofessors.com/professor/2078580",
+      "doc_type": "rmp",
+      "source_file": "rmp_panangadan_anand.txt"
+    }
+  },
+  {
+    "id": "rmp_ryu_christopher_review_1",
+    "text": "Professor: Christopher Ryu (Computer Science, CSUF)\nCourse: CPSC 585 | Date: May 25, 2026\nQuality: 3.0 | Difficulty: 4.0 | Grade: A | Would Take Again: Yes | Attendance: Mandatory\nTags: Helpful\nThis course is quite difficult, and there is no cheat sheet. You really need to understand and memorize the slides. He also asks conceptual questions on the exams. The homework assignments are large, and doing them alone (especially if you don't have materials from last semester) can be very challenging. No TA, and the Discord does not answer HW questions.",
+    "metadata": {
+      "source": "Rate My Professors",
+      "professor_or_topic": "Christopher Ryu (Computer Science, CSUF)",
+      "course": "CPSC 585",
+      "url": "https://www.ratemyprofessors.com/professor/2382378",
+      "doc_type": "rmp",
+      "source_file": "rmp_ryu_christopher.txt"
+    }
+  },
+  {
+    "id": "rmp_ryu_christopher_review_2",
+    "text": "Professor: Christopher Ryu (Computer Science, CSUF)\nCourse: CPSC 485 (actually CPSC 254) | Date: Apr 21, 2026\nQuality: 5.0 | Difficulty: 1.0 | Grade: A+ | Would Take Again: Yes | Attendance: Mandatory\nTags: Tough grader, Amazing lectures, Beware of pop quizzes, Helpful\nFOR CPSC 254. Very easy class. I don't know why people say he is bad. Well, the exam averages were mostly 60%, but he gives extra credit very often, and this will make your D to B+ in no time. The assignments were also really easy and graded fairly. Just come to class and listen to his lecture and you will be fine.",
+    "metadata": {
+      "source": "Rate My Professors",
+      "professor_or_topic": "Christopher Ryu (Computer Science, CSUF)",
+      "course": "CPSC 485",
+      "url": "https://www.ratemyprofessors.com/professor/2382378",
+      "doc_type": "rmp",
+      "source_file": "rmp_ryu_christopher.txt"
+    }
+  },
+  {
+    "id": "rmp_ryu_christopher_review_3",
+    "text": "Professor: Christopher Ryu (Computer Science, CSUF)\nCourse: CPSC 485 (actually CPSC 254) | Date: Apr 28, 2025\nQuality: 2.0 | Difficulty: 1.0 | Attendance: Not Mandatory\nTags: Helpful\nClass taken was actually CPSC 254. Class is super easy, lectures are super boring. Homework is lots of tedious work. He gives lots of extra credit out if you go to each class. Encouraged to use AI to help with homework.",
+    "metadata": {
+      "source": "Rate My Professors",
+      "professor_or_topic": "Christopher Ryu (Computer Science, CSUF)",
+      "course": "CPSC 485",
+      "url": "https://www.ratemyprofessors.com/professor/2382378",
+      "doc_type": "rmp",
+      "source_file": "rmp_ryu_christopher.txt"
+    }
+  },
+  {
+    "id": "rmp_ryu_christopher_review_4",
+    "text": "Professor: Christopher Ryu (Computer Science, CSUF)\nCourse: CPSC 485 (actually CPSC 483) | Date: Nov 23, 2024\nQuality: 2.0 | Difficulty: 5.0 | Grade: C | Attendance: Not Mandatory\nTags: Tough grader, Get ready to read, Helpful\nThis is for CPSC 483. Assumes his students are geniuses. Assignment instructions are short and vague. He gives you a 300+ line code on ANN Architecture and Multilayer Perceptron and expects you to modify it to a working Classifier. Quizzes are based on his PowerPoints and lecture. Class averaged a C on quizzes.",
+    "metadata": {
+      "source": "Rate My Professors",
+      "professor_or_topic": "Christopher Ryu (Computer Science, CSUF)",
+      "course": "CPSC 485",
+      "url": "https://www.ratemyprofessors.com/professor/2382378",
+      "doc_type": "rmp",
+      "source_file": "rmp_ryu_christopher.txt"
+    }
+  },
+  {
+    "id": "rmp_ryu_christopher_review_5",
+    "text": "Professor: Christopher Ryu (Computer Science, CSUF)\nCourse: CPSC 585 | Date: Apr 19, 2024\nQuality: 1.0 | Difficulty: 5.0 | Attendance: Not Mandatory\nTags: Tough grader, Beware of pop quizzes, Lecture heavy, Helpful\nLectures are way too difficult to follow. He just uses a PowerPoint that is 3 hours long the whole time. The homework is harder than what is taught in class and he just expects you to know how to do it. He uses a grader who was awful - took forever to grade and barely gave helpful feedback.",
+    "metadata": {
+      "source": "Rate My Professors",
+      "professor_or_topic": "Christopher Ryu (Computer Science, CSUF)",
+      "course": "CPSC 585",
+      "url": "https://www.ratemyprofessors.com/professor/2382378",
+      "doc_type": "rmp",
+      "source_file": "rmp_ryu_christopher.txt"
+    }
+  },
+  {
+    "id": "rmp_ryu_christopher_review_6",
+    "text": "Professor: Christopher Ryu (Computer Science, CSUF)\nCourse: CPSC 585 | Date: Mar 20, 2024\nQuality: 1.0 | Difficulty: 5.0 | Attendance: Not Mandatory\nTags: Tough grader, Lots of homework, Helpful\nCan't teach! Homework and assignments are way more difficult than whatever he teaches. He assumes that you know everything. For example, he delivered a lecture on Artificial Neural Networks (ANN) and its basics, then gave the assignment to train and evaluate the ANN. In short, he doesn't know how to teach.",
+    "metadata": {
+      "source": "Rate My Professors",
+      "professor_or_topic": "Christopher Ryu (Computer Science, CSUF)",
+      "course": "CPSC 585",
+      "url": "https://www.ratemyprofessors.com/professor/2382378",
+      "doc_type": "rmp",
+      "source_file": "rmp_ryu_christopher.txt"
+    }
+  },
+  {
+    "id": "rmp_ryu_christopher_review_7",
+    "text": "Professor: Christopher Ryu (Computer Science, CSUF)\nCourse: CPSC 485 | Date: May 30, 2023\nQuality: 5.0 | Difficulty: 3.0 | Grade: A | Would Take Again: Yes | Attendance: Mandatory\nTags: Helpful\nOverall great teacher!",
+    "metadata": {
+      "source": "Rate My Professors",
+      "professor_or_topic": "Christopher Ryu (Computer Science, CSUF)",
+      "course": "CPSC 485",
+      "url": "https://www.ratemyprofessors.com/professor/2382378",
+      "doc_type": "rmp",
+      "source_file": "rmp_ryu_christopher.txt"
+    }
+  },
+  {
+    "id": "rmp_ryu_christopher_review_8",
+    "text": "Professor: Christopher Ryu (Computer Science, CSUF)\nCourse: CPSC 485 | Date: Mar 17, 2023\nQuality: 1.0 | Difficulty: 5.0 | Grade: C | Attendance: Not Mandatory\nTags: Tough grader, Lecture heavy, Test heavy, Helpful\nHe teaches a lot of things from the PPT but there will be quizzes every week so grades are according to them. Be prepared for reading every day! Projects are not that easy but somehow we will manage to do.",
+    "metadata": {
+      "source": "Rate My Professors",
+      "professor_or_topic": "Christopher Ryu (Computer Science, CSUF)",
+      "course": "CPSC 485",
+      "url": "https://www.ratemyprofessors.com/professor/2382378",
+      "doc_type": "rmp",
+      "source_file": "rmp_ryu_christopher.txt"
+    }
+  },
+  {
+    "id": "rmp_ryu_christopher_review_9",
+    "text": "Professor: Christopher Ryu (Computer Science, CSUF)\nCourse: CPSC 491 | Date: Dec 3, 2022\nQuality: 1.0 | Difficulty: 5.0 | Attendance: Not Mandatory\nTags: Beware of pop quizzes, Lecture heavy, Test heavy, Helpful\nAvoid him for machine learning, his lectures are unrealistic. For example, imagine 100 PowerPoint slides with endless mathematical formulas (gibberish). He also has a language barrier and struggles at explaining concepts. Everyone was failing from the start basically from quizzes. We all expect a massive curve. 4 major projects with little to no help.",
+    "metadata": {
+      "source": "Rate My Professors",
+      "professor_or_topic": "Christopher Ryu (Computer Science, CSUF)",
+      "course": "CPSC 491",
+      "url": "https://www.ratemyprofessors.com/professor/2382378",
+      "doc_type": "rmp",
+      "source_file": "rmp_ryu_christopher.txt"
+    }
+  },
+  {
+    "id": "rmp_ryu_christopher_review_10",
+    "text": "Professor: Christopher Ryu (Computer Science, CSUF)\nCourse: CPSC 491 | Date: Oct 10, 2022\nQuality: 1.0 | Difficulty: 5.0 | Grade: B | Attendance: Not Mandatory\nTags: Tough grader, Lots of homework, Test heavy, Helpful\nStart learning from the beginning; quizzes are hard as compared to what he teaches.",
+    "metadata": {
+      "source": "Rate My Professors",
+      "professor_or_topic": "Christopher Ryu (Computer Science, CSUF)",
+      "course": "CPSC 491",
+      "url": "https://www.ratemyprofessors.com/professor/2382378",
+      "doc_type": "rmp",
+      "source_file": "rmp_ryu_christopher.txt"
+    }
+  },
+  {
+    "id": "rmp_sood_kanika_review_1",
+    "text": "Professor: Kanika Sood (Computer Science, CSUF)\nCourse: CPSC 483 (noted as 490) | Date: Mar 11, 2026\nQuality: 3.0 | Difficulty: 3.0 | Attendance: Not Mandatory\nTags: Helpful\nVery messy start to semester. She wasn't there for 2 weeks, but the uni handled it terribly. It seemed like she thought we had access to Canvas at that time. She also didn't seem to know that this class doesn't require implementation. Later on she casually mentioned it on an announcement for something else. This is all the uni's fault!",
+    "metadata": {
+      "source": "Rate My Professors",
+      "professor_or_topic": "Kanika Sood (Computer Science, CSUF)",
+      "course": "CPSC 483",
+      "url": "https://www.ratemyprofessors.com/professor/2552839",
+      "doc_type": "rmp",
+      "source_file": "rmp_sood_kanika.txt"
+    }
+  },
+  {
+    "id": "rmp_sood_kanika_review_2",
+    "text": "Professor: Kanika Sood (Computer Science, CSUF)\nCourse: CPSC 483 | Date: Dec 9, 2025\nQuality: 5.0 | Difficulty: 3.0 | Would Take Again: Yes\nTags: Helpful\nOne of the few teachers in the department who I'd consider to be an actual professor. The rest are like employees. Her class made me decide that I'd like to become an ML engineer! Exams are on pen and paper, but they were surprisingly not difficult if you paid attention and did all the work.",
+    "metadata": {
+      "source": "Rate My Professors",
+      "professor_or_topic": "Kanika Sood (Computer Science, CSUF)",
+      "course": "CPSC 483",
+      "url": "https://www.ratemyprofessors.com/professor/2552839",
+      "doc_type": "rmp",
+      "source_file": "rmp_sood_kanika.txt"
+    }
+  },
+  {
+    "id": "rmp_sood_kanika_review_3",
+    "text": "Professor: Kanika Sood (Computer Science, CSUF)\nCourse: CPSC 483 | Date: Dec 6, 2025\nQuality: 5.0 | Difficulty: 2.0 | Grade: B- | Would Take Again: Yes | Attendance: Mandatory\nTags: Participation matters, Group projects, Gives good feedback, Helpful\nVery great professor. So understanding and caring. Teaches ML concepts so well and gives every student an opportunity to take their project to the next level and have it be recognized. I left the class with a great understanding of ML and lectures were always great and engaging. Only con is she keeps track of your participation so if ur shy.....",
+    "metadata": {
+      "source": "Rate My Professors",
+      "professor_or_topic": "Kanika Sood (Computer Science, CSUF)",
+      "course": "CPSC 483",
+      "url": "https://www.ratemyprofessors.com/professor/2552839",
+      "doc_type": "rmp",
+      "source_file": "rmp_sood_kanika.txt"
+    }
+  },
+  {
+    "id": "rmp_sood_kanika_review_4",
+    "text": "Professor: Kanika Sood (Computer Science, CSUF)\nCourse: CPSC 483 | Date: Dec 4, 2025\nQuality: 5.0 | Difficulty: 2.0 | Would Take Again: Yes | Attendance: Mandatory\nTags: Helpful\nWow an actual prof with a personality and engaging lectures and not a human creaking door that just stands behind the podium? A prof that gives you the chance to create impactful work and write a research paper that she can help you publish and you can even go out of state to present it?? A prof that relays weekly ML news??",
+    "metadata": {
+      "source": "Rate My Professors",
+      "professor_or_topic": "Kanika Sood (Computer Science, CSUF)",
+      "course": "CPSC 483",
+      "url": "https://www.ratemyprofessors.com/professor/2552839",
+      "doc_type": "rmp",
+      "source_file": "rmp_sood_kanika.txt"
+    }
+  },
+  {
+    "id": "rmp_sood_kanika_review_5",
+    "text": "Professor: Kanika Sood (Computer Science, CSUF)\nCourse: CPSC 483 | Date: Dec 4, 2025\nQuality: 5.0 | Difficulty: 2.0 | Would Take Again: Yes | Attendance: Not Mandatory\nTags: Helpful\nExams are on paper, but are actually easy if you study. On Discord some students complaining about her, but in reality it's cuz they don't pay attention in class and wait til last min to do their work and gets mad cuz she's not replying back in .3 seconds. She literally makes you take surveys to improve the class. Even willing to push back due dates.",
+    "metadata": {
+      "source": "Rate My Professors",
+      "professor_or_topic": "Kanika Sood (Computer Science, CSUF)",
+      "course": "CPSC 483",
+      "url": "https://www.ratemyprofessors.com/professor/2552839",
+      "doc_type": "rmp",
+      "source_file": "rmp_sood_kanika.txt"
+    }
+  },
+  {
+    "id": "rmp_sood_kanika_review_6",
+    "text": "Professor: Kanika Sood (Computer Science, CSUF)\nCourse: CPSC 483 | Date: Dec 2, 2025\nQuality: 1.0 | Difficulty: 4.0 | Grade: B | Attendance: Not Mandatory\nTags: Tough grader, Participation matters, Group projects, Helpful\nShe takes a long time to respond to emails. Exams are in person on paper, the exams are long and difficult. Her lecture slides are very hard to study so you are better off learning everything yourself. Her Canvas is not easy to navigate and confusing. Participation is required. Lectures were boring and the project is a lot.",
+    "metadata": {
+      "source": "Rate My Professors",
+      "professor_or_topic": "Kanika Sood (Computer Science, CSUF)",
+      "course": "CPSC 483",
+      "url": "https://www.ratemyprofessors.com/professor/2552839",
+      "doc_type": "rmp",
+      "source_file": "rmp_sood_kanika.txt"
+    }
+  },
+  {
+    "id": "rmp_sood_kanika_review_7",
+    "text": "Professor: Kanika Sood (Computer Science, CSUF)\nCourse: CPSC 483 | Date: May 30, 2025\nQuality: 4.0 | Difficulty: 3.0 | Grade: B | Would Take Again: Yes | Attendance: Mandatory\nTags: Participation matters, Group projects, Amazing lectures, Helpful\nPretty straightforward course. You get a cheat sheet on the two exams, quizzes aren't bad at all, as aren't homeworks. You just need a good partner or two for the project and this course should not be that bad. Great professor.",
+    "metadata": {
+      "source": "Rate My Professors",
+      "professor_or_topic": "Kanika Sood (Computer Science, CSUF)",
+      "course": "CPSC 483",
+      "url": "https://www.ratemyprofessors.com/professor/2552839",
+      "doc_type": "rmp",
+      "source_file": "rmp_sood_kanika.txt"
+    }
+  },
+  {
+    "id": "rmp_sood_kanika_review_8",
+    "text": "Professor: Kanika Sood (Computer Science, CSUF)\nCourse: CPSC 483 | Date: Nov 9, 2024\nQuality: 3.0 | Difficulty: 3.0 | Attendance: Not Mandatory\nTags: Participation matters, Group projects, Caring, Helpful\nShe's knowledgeable and clear in lectures, which makes the material easy to understand. However, she requires forced participation, and it's graded (e.g. raising your hand and asking/answering questions), which can feel unnecessary. Exams are open notes, which is really good for machine learning.",
+    "metadata": {
+      "source": "Rate My Professors",
+      "professor_or_topic": "Kanika Sood (Computer Science, CSUF)",
+      "course": "CPSC 483",
+      "url": "https://www.ratemyprofessors.com/professor/2552839",
+      "doc_type": "rmp",
+      "source_file": "rmp_sood_kanika.txt"
+    }
+  },
+  {
+    "id": "rmp_sood_kanika_review_9",
+    "text": "Professor: Kanika Sood (Computer Science, CSUF)\nCourse: CPSC 483 | Date: Dec 3, 2023\nQuality: 5.0 | Difficulty: 3.0 | Grade: B | Would Take Again: Yes | Attendance: Not Mandatory\nTags: Amazing lectures, Gives good feedback, Inspirational, Helpful\nShe is one of those professors who knows what she is talking about so she sort of makes machine learning somehow cooler than it is. The professor is very knowledgeable and enthusiastic, and answers all questions with respect. She also made sure that we covered many relevant and important topics.",
+    "metadata": {
+      "source": "Rate My Professors",
+      "professor_or_topic": "Kanika Sood (Computer Science, CSUF)",
+      "course": "CPSC 483",
+      "url": "https://www.ratemyprofessors.com/professor/2552839",
+      "doc_type": "rmp",
+      "source_file": "rmp_sood_kanika.txt"
+    }
+  },
+  {
+    "id": "rmp_sood_kanika_review_10",
+    "text": "Professor: Kanika Sood (Computer Science, CSUF)\nCourse: CPSC 315 | Date: Apr 10, 2023\nQuality: 5.0 | Difficulty: 4.0 | Grade: B | Would Take Again: Yes | Attendance: Not Mandatory\nTags: Get ready to read, Participation matters, Gives good feedback, Helpful\nThis was the most fun class I have had in a while. Very lively class, with a lot of discussion, interesting topics and recent events that relate to the textbook content. Get ready to read and participate each week. I have taken 2 classes with her, CPSC 483: Machine Learning, and her enthusiasm is transferable to everyone in the class.",
+    "metadata": {
+      "source": "Rate My Professors",
+      "professor_or_topic": "Kanika Sood (Computer Science, CSUF)",
+      "course": "CPSC 315",
+      "url": "https://www.ratemyprofessors.com/professor/2552839",
+      "doc_type": "rmp",
+      "source_file": "rmp_sood_kanika.txt"
+    }
+  }
+]

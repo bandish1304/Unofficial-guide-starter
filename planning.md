@@ -45,7 +45,7 @@ My system covers what CSUF CS students actually say about professors and classes
      A review-heavy corpus warrants different chunking than a long FAQ. -->
 
 **Chunk size:**
-My chunk size will be for RMP files it will be 1 review per chunk and for Reddit files it will be 1 thread per chunk.
+My chunk size will be for RMP files it will be 1 review per chunk and for Reddit files it will be 1 file per chunk (one whole captured Reddit page = one chunk). Most of my Reddit files are a single thread, but a couple (e.g. reddit_mira_kim.txt) bundle a few short related threads about the same professor that I captured together — I keep those as one chunk on purpose so the full conversation stays intact instead of being chopped into tiny one-line fragments.
 **Overlap:**
 Honestly, my overlap will be 0 because the ratings and reddit comments are really small post, that i dont have to do overlap
 
@@ -127,8 +127,8 @@ Ans: Students name McCarthy (talks about interviews instead of teaching), Hollid
              │  raw text
              ▼
   ┌──────────────────────┐
-  │ 2. CHUNKING          │   RMP  → 1 review  per chunk
-  │                      │   Reddit → 1 thread per chunk
+  │ 2. CHUNKING          │   RMP  → 1 review per chunk
+  │                      │   Reddit → 1 file  per chunk
   │  Tool: Python script │   Overlap: 0
   └──────────┬───────────┘
              │  list of chunks
